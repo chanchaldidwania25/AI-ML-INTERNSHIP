@@ -1,6 +1,6 @@
 # 📊 SwiftKart E-Commerce Analytics Practicum
 ## 📊 Project Overview
-This repository contains my internship practicum on **E‑Commerce Customer Behavior & Delivery Analytics** for **SwiftKart**, a high‑growth Indian e‑commerce platform.[SwiftKart_Analytics Practicum.pdf](https://github.com/chanchaldidwania25/AI-ML-INTERNSHIP/blob/main/ecommerce_customer_behavior_and_delivery_analytics%20(1).pdf)
+This repository contains my internship practicum on **E‑Commerce Customer Behavior & Delivery Analytics** for **SwiftKart**, a high‑growth Indian e‑commerce platform.([SwiftKart_Analytics Practicum.pdf](https://github.com/chanchaldidwania25/AI-ML-INTERNSHIP/blob/main/ecommerce_customer_behavior_and_delivery_analytics%20(1).pdf))
 
 The project focuses on analyzing **unit economics, logistics bottlenecks, and discount elasticity**.
 
@@ -22,7 +22,7 @@ The dataset ([Ecommerce_Orders_For_Cleaning.csv](https://github.com/chanchaldidw
 
 ## 📝 Deliverables
 - **Google Colab Notebook** – [SwiftKart_Analytics.ipynb](https://github.com/chanchaldidwania25/AI-ML-INTERNSHIP/blob/main/SwiftKart_Analytics.ipynb)  
-- **Cleaned Dataset** – [Ecommerce_Orders_Cleaned.csv](https://github.com/chanchaldidwania25/AI-ML-INTERNSHIP/blob/main/ecommerce_orders_cleaned.csv) 
+- **Cleaned Dataset** – [Ecommerce_Orders_Cleaned.csv](https://github.com/chanchaldidwania25/AI-ML-INTERNSHIP/blob/main/Ecommerce_Cleaned_Data.csv) 
 - **Business Insights & Recommendations** – Identified worst‑performing city tier, proved deep discounts correlate with higher return risk, and suggested optimal discount thresholds  
 
 ## 🎯 Key Learnings
