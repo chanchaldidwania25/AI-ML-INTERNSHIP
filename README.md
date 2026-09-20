@@ -21,7 +21,7 @@ The dataset ([Ecommerce_Orders_For_Cleaning.csv](https://github.com/chanchaldidw
 👉 The dataset included **real‑world anomalies**: duplicates, missing values, inconsistent casing, and skewed distributions — all of which were systematically cleaned.  
 
 ## 📝 Deliverables
-- **Google Colab Notebook** – [SwiftKart_Analytics.ipynb](https://github.com/chanchaldidwania25/AI-ML-INTERMSHIP/blob/main/SwiftKart_Analytics.ipynb)  
+- **Google Colab Notebook** – [SwiftKart_Analytics.ipynb](https://github.com/chanchaldidwania25/AI-ML-INTERNSHIP/blob/main/SwiftKart_Analytics.ipynb)  
 - **Cleaned Dataset** – [Ecommerce_Orders_Cleaned.csv](https://github.com/chanchaldidwania25/AI-ML-INTERNSHIP/blob/main/ecommerce_orders_cleaned.csv) 
 - **Business Insights & Recommendations** – Identified worst‑performing city tier, proved deep discounts correlate with higher return risk, and suggested optimal discount thresholds  
 
