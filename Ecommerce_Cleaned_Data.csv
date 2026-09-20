@@ -1,0 +1,908 @@
+Order_ID,Customer_ID,Category,Payment_Method,Order_Value,Discount_Percent,Est_Delivery_Days,Actual_Delivery_Days,Customer_Rating,Returned,City_Tier,Delivery_Delay,Fulfillment_Status,High_Value_Order,Net_Revenue,Customer_Segmentation
+ORD1000,CUST202,Electronics,CREDIT CARD,4176.65,0,3,7.0,2.0,No,Tier 3,4.0,Severe Delay,Normal Order,4176.65,Standard Order
+ORD1001,CUST279,Home,CREDIT CARD,470.85,0,2,7.0,5.0,No,Tier 2,5.0,Severe Delay,Normal Order,470.85,Standard Order
+ORD1002,CUST192,Beauty,UPI,941.13,15,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,Normal Order,799.96,Standard Order
+ORD1003,CUST114,Fashion,DEBIT CARD,2163.22,50,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,1081.61,Loyal & Satisfied
+ORD1004,CUST206,Electronics,UPI,3408.9,15,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,2897.56,Loyal & Satisfied
+ORD1005,CUST171,Home,DEBIT CARD,1867.29,5,7,7.0,5.0,No,Tier 3,0.0,On-Time,Normal Order,1773.93,Loyal & Satisfied
+ORD1006,CUST288,Home,UPI,647.96,20,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,518.37,Standard Order
+ORD1008,CUST202,Beauty,UPI,728.02,0,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,728.02,Standard Order
+ORD1009,CUST221, Electronics ,UPI,2101.06,15,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,1785.9,Loyal & Satisfied
+ORD1011,CUST314,Electronics,COD,2116.93,5,2,7.0,1.0,No,Tier 2,5.0,Severe Delay,Normal Order,2011.08,Standard Order
+ORD1012,CUST174,Home,UPI,3180.35,5,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,3021.33,Loyal & Satisfied
+ORD1013,CUST302,Electronics,CREDIT CARD,203.16,20,5,7.0,5.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,162.53,Standard Order
+ORD1014,CUST187,Beauty,CREDIT CARD,2096.5,20,2,7.0,3.0,No,Tier 2,5.0,Severe Delay,Normal Order,1677.2,Standard Order
+ORD1015,CUST216,Books,CREDIT CARD,2854.3,30,2,7.0,4.0,Yes,Tier 2,5.0,Severe Delay,Normal Order,1998.01,High Risk Transaction
+ORD1016,CUST199,Electronics,DEBIT CARD,262.11,50,4,7.0,3.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,131.06,High Risk Transaction
+ORD1017,CUST203,Beauty,UPI,3278.88,5,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,3114.94,Loyal & Satisfied
+ORD1019,CUST230,Home,UPI,1841.75,0,7,7.0,4.0,Yes,Tier 1,0.0,On-Time,Normal Order,1841.75,Standard Order
+ORD1020,CUST249,Beauty,CREDIT CARD,2616.82,10,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,2355.14,Loyal & Satisfied
+ORD1021,CUST152,Beauty,UPI,1830.02,20,7,7.0,4.0,Yes,Tier 1,0.0,On-Time,Normal Order,1464.02,Standard Order
+ORD1022,CUST101,Beauty,CREDIT CARD,345.24,10,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,310.72,Standard Order
+ORD1023,CUST187,Beauty,UPI,1560.7,15,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,1326.6,Loyal & Satisfied
+ORD1024,CUST335,Fashion,CREDIT CARD,1396.37,20,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,1117.1,Standard Order
+ORD1025,CUST257,Fashion,COD,3658.7,10,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,3292.83,Loyal & Satisfied
+ORD1026,CUST137,Home,CREDIT CARD,976.88,50,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,488.44,Standard Order
+ORD1027,CUST229,Electronics,UPI,780.88,15,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,663.75,Standard Order
+ORD1028,CUST291,Beauty,UPI,2278.55,0,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,2278.55,Standard Order
+ORD1029,CUST287,Electronics,COD,998.27,50,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,499.14,Standard Order
+ORD1030,CUST120,Electronics,DEBIT CARD,1758.1,15,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,1494.38,Loyal & Satisfied
+ORD1031,CUST260,Home,DEBIT CARD,1759.6,30,5,7.0,4.0,Yes,Tier 3,2.0,Unknown Status,Normal Order,1231.72,High Risk Transaction
+ORD1032,CUST303, Beauty ,COD,3484.41,20,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,2787.53,Loyal & Satisfied
+ORD1033,CUST157,Beauty,UPI,1569.54,5,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,1491.06,Standard Order
+ORD1034,CUST121,Books,UPI,1246.2,0,2,7.0,4.0,Yes,Tier 2,5.0,Severe Delay,Normal Order,1246.2,Standard Order
+ORD1035,CUST335,Electronics,UPI,424.27,50,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,212.14,Standard Order
+ORD1036,CUST188,Electronics,UPI,384.5,50,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,192.25,Standard Order
+ORD1037,CUST148,Fashion,CREDIT CARD,451.42,10,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,406.28,Standard Order
+ORD1038,CUST318,Books,UPI,482.84,20,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,386.27,Standard Order
+ORD1039,CUST158,Fashion,DEBIT CARD,1723.66,5,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,1637.48,Loyal & Satisfied
+ORD1040,CUST269,Fashion,UPI,2226.28,15,3,7.0,5.0,No,Tier 3,4.0,Severe Delay,Normal Order,1892.34,Loyal & Satisfied
+ORD1041,CUST319,Fashion,COD,1332.51,5,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,1265.88,Loyal & Satisfied
+ORD1042,CUST287,Home,DEBIT CARD,2849.29,20,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,2279.43,Loyal & Satisfied
+ORD1043,CUST307,Home,UPI,7310.32,20,6,7.0,1.0,Yes,Tier 1,1.0,Unknown Status,High Value Order,5848.26,Standard Order
+ORD1044,CUST114,Fashion,CREDIT CARD,2772.3,30,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,1940.61,Loyal & Satisfied
+ORD1045,CUST289,Books,UPI,1980.59,30,7,7.0,4.0,Yes,Tier 3,0.0,On-Time,Normal Order,1386.41,High Risk Transaction
+ORD1046,CUST289,Electronics,UPI,1340.51,5,2,7.0,1.0,No,Tier 2,5.0,Severe Delay,Normal Order,1273.48,Standard Order
+ORD1048,CUST289,Beauty,COD,332.25,5,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,315.64,Standard Order
+ORD1050,CUST207,Electronics,COD,3814.16,20,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,3051.33,Loyal & Satisfied
+ORD1051,CUST154,Electronics,UPI,2675.57,10,3,7.0,2.0,No,Tier 1,4.0,Severe Delay,Normal Order,2408.01,Standard Order
+ORD1052,CUST343,Beauty,DEBIT CARD,565.12,30,7,7.0,4.0,Yes,Tier 1,0.0,On-Time,Normal Order,395.58,High Risk Transaction
+ORD1053,CUST163,Beauty,DEBIT CARD,1142.75,10,3,7.0,3.0,No,Tier 2,4.0,Severe Delay,Normal Order,1028.48,Standard Order
+ORD1054,CUST348,Fashion,UPI,2745.14,0,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,2745.14,Loyal & Satisfied
+ORD1055,CUST230,Home,UPI,304.64,20,7,7.0,4.0,Yes,Tier 2,0.0,On-Time,Normal Order,243.71,Standard Order
+ORD1056,CUST328,Home,UPI,935.05,10,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,841.54,Standard Order
+ORD1057,CUST150, Books ,CREDIT CARD,3064.21,5,7,7.0,2.0,Yes,Tier 1,0.0,On-Time,Normal Order,2911.0,Standard Order
+ORD1058,CUST234,Fashion,UPI,976.01,30,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,683.21,Standard Order
+ORD1059,CUST120, Fashion ,CREDIT CARD,321.19,30,2,7.0,4.0,Yes,Tier 3,5.0,Severe Delay,Normal Order,224.83,High Risk Transaction
+ORD1060,CUST172,Fashion,UPI,1373.08,15,7,7.0,3.0,Yes,Tier 1,0.0,On-Time,Normal Order,1167.12,Standard Order
+ORD1061,CUST266,Fashion,UPI,3167.96,5,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,3009.56,Loyal & Satisfied
+ORD1062,CUST117,Home,UPI,1538.44,15,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1307.67,Loyal & Satisfied
+ORD1063,CUST231,Home,DEBIT CARD,584.82,10,3,7.0,4.0,Yes,Tier 3,4.0,Severe Delay,Normal Order,526.34,Standard Order
+ORD1064,CUST188,Fashion,CREDIT CARD,927.35,50,3,7.0,1.0,No,Tier 3,4.0,Severe Delay,Normal Order,463.68,Standard Order
+ORD1065,CUST159,Books,DEBIT CARD,1097.09,0,4,7.0,3.0,Yes,Tier 1,3.0,Severe Delay,Normal Order,1097.09,Standard Order
+ORD1067,CUST341,Electronics,UPI,2336.62,5,4,7.0,4.0,Yes,Tier 2,3.0,Severe Delay,Normal Order,2219.79,Standard Order
+ORD1068,CUST349,Books,COD,356.16,5,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,338.35,Standard Order
+ORD1069,CUST108,Fashion,CREDIT CARD,3506.17,15,6,7.0,3.0,No,Tier 2,1.0,Unknown Status,Normal Order,2980.24,Standard Order
+ORD1070,CUST189,Home,UPI,218.58,10,7,7.0,4.0,Yes,Tier 2,0.0,On-Time,Normal Order,196.72,Standard Order
+ORD1071,CUST152,Electronics,UPI,893.18,5,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,848.52,Standard Order
+ORD1072,CUST229,Beauty,UPI,241.7,50,2,7.0,1.0,No,Tier 1,5.0,Severe Delay,Normal Order,120.85,Standard Order
+ORD1074,CUST191,Books,CREDIT CARD,1319.23,30,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,923.46,Standard Order
+ORD1075,CUST210,Fashion,COD,1275.18,0,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,1275.18,Standard Order
+ORD1076,CUST287,Electronics,UPI,471.61,30,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,330.13,Standard Order
+ORD1077,CUST298,Fashion,UPI,1756.59,30,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,1229.61,Loyal & Satisfied
+ORD1078,CUST271,Electronics,UPI,268.72,0,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,268.72,Standard Order
+ORD1079,CUST107,Books,DEBIT CARD,2352.64,50,7,7.0,5.0,No,Tier 3,0.0,On-Time,Normal Order,1176.32,Loyal & Satisfied
+ORD1081,CUST134,Beauty,UPI,822.75,30,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,575.92,Standard Order
+ORD1082,CUST305,Fashion,UPI,1292.35,10,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,1163.12,Standard Order
+ORD1083,CUST180,Beauty,UPI,914.42,30,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,640.09,Standard Order
+ORD1084,CUST263,Fashion,CREDIT CARD,210.1,20,3,7.0,4.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,168.08,Standard Order
+ORD1085,CUST149,Beauty,UPI,931.33,0,4,7.0,3.0,No,Tier 1,3.0,Severe Delay,Normal Order,931.33,Standard Order
+ORD1086,CUST203,Home,UPI,2553.31,30,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,1787.32,Standard Order
+ORD1088,CUST101, Home ,UPI,360.14,15,3,7.0,4.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,306.12,Standard Order
+ORD1089,CUST233,Home,UPI,3017.34,20,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,2413.87,Standard Order
+ORD1090,CUST153,Electronics,COD,1336.0,5,2,7.0,3.0,No,Tier 3,5.0,Severe Delay,Normal Order,1269.2,Standard Order
+ORD1091,CUST205,Home,DEBIT CARD,2965.12,30,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,2075.58,Loyal & Satisfied
+ORD1092,CUST103, Books ,UPI,1502.04,20,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,1201.63,Loyal & Satisfied
+ORD1093,CUST153,Books,COD,1430.41,10,3,7.0,2.0,No,Tier 3,4.0,Severe Delay,Normal Order,1287.37,Standard Order
+ORD1094,CUST320,Electronics,UPI,366.83,15,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,311.81,Standard Order
+ORD1095,CUST290,Home,UPI,474.73,50,5,7.0,5.0,Yes,Tier 3,2.0,Unknown Status,Normal Order,237.36,High Risk Transaction
+ORD1096,CUST245,Home,CREDIT CARD,5564.68,30,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,High Value Order,3895.28,Loyal & Satisfied
+ORD1097,CUST317,Home,UPI,589.1,5,5,7.0,5.0,Yes,Tier 2,2.0,Unknown Status,Normal Order,559.64,Standard Order
+ORD1099,CUST261, Fashion ,CREDIT CARD,1338.65,20,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,1070.92,Loyal & Satisfied
+ORD1100,CUST301, Beauty ,CREDIT CARD,418.91,50,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,209.46,Standard Order
+ORD1101,CUST289,Fashion,DEBIT CARD,356.88,50,4,7.0,2.0,Yes,Tier 2,3.0,Severe Delay,Normal Order,178.44,High Risk Transaction
+ORD1102,CUST327, Home ,CREDIT CARD,551.43,15,4,7.0,3.0,No,Tier 1,3.0,Severe Delay,Normal Order,468.72,Standard Order
+ORD1103,CUST113,Home,CREDIT CARD,4098.2,50,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,2049.1,Loyal & Satisfied
+ORD1104,CUST194,Beauty,CREDIT CARD,1002.04,50,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,501.02,Standard Order
+ORD1105,CUST147,Beauty,CREDIT CARD,954.87,30,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,668.41,High Risk Transaction
+ORD1106,CUST114,Fashion,UPI,763.58,15,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,649.04,Standard Order
+ORD1108,CUST305,Fashion,UPI,1203.71,20,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,962.97,Standard Order
+ORD1109,CUST314,Beauty,UPI,408.98,15,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,347.63,Standard Order
+ORD1110,CUST348, Beauty ,DEBIT CARD,2907.09,15,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,2471.03,Loyal & Satisfied
+ORD1111,CUST289,Electronics,CREDIT CARD,894.0,0,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,894.0,Standard Order
+ORD1112,CUST139,Beauty,UPI,904.53,15,2,7.0,5.0,No,Tier 2,5.0,Severe Delay,Normal Order,768.85,Standard Order
+ORD1113,CUST312,Electronics,UPI,1163.7,0,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1163.7,Standard Order
+ORD1114,CUST307,Books,UPI,1080.83,20,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,864.66,Standard Order
+ORD1115,CUST336, Fashion ,CREDIT CARD,8105.46,50,6,7.0,4.0,Yes,Tier 1,1.0,Unknown Status,High Value Order,4052.73,High Risk Transaction
+ORD1116,CUST181, Fashion ,UPI,1382.44,30,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,967.71,Loyal & Satisfied
+ORD1118,CUST152,Fashion,UPI,1600.45,20,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,1280.36,Standard Order
+ORD1119,CUST123,Beauty,CREDIT CARD,446.58,20,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,357.26,Standard Order
+ORD1120,CUST253,Home,CREDIT CARD,247.14,10,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,222.43,Standard Order
+ORD1121,CUST316,Electronics,CREDIT CARD,5497.41,50,5,7.0,5.0,No,Tier 3,2.0,Unknown Status,High Value Order,2748.7,Loyal & Satisfied
+ORD1122,CUST287,Fashion,UPI,2427.77,20,6,7.0,5.0,No,Tier 3,1.0,Unknown Status,Normal Order,1942.22,Loyal & Satisfied
+ORD1123,CUST223,Electronics,DEBIT CARD,6076.23,15,7,7.0,5.0,Yes,Tier 2,0.0,On-Time,High Value Order,5164.8,Standard Order
+ORD1124,CUST336,Electronics,CREDIT CARD,1174.78,30,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,822.35,Standard Order
+ORD1125,CUST140,Home,CREDIT CARD,1339.76,5,3,7.0,4.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,1272.77,Standard Order
+ORD1126,CUST256,Beauty,DEBIT CARD,476.49,30,6,7.0,2.0,No,Tier 3,1.0,Unknown Status,Normal Order,333.54,Standard Order
+ORD1127,CUST114,Electronics,CREDIT CARD,625.35,0,5,7.0,1.0,No,Tier 3,2.0,Unknown Status,Normal Order,625.35,Standard Order
+ORD1128,CUST144,Fashion,CREDIT CARD,2935.33,30,5,7.0,5.0,No,Tier 3,2.0,Unknown Status,Normal Order,2054.73,Loyal & Satisfied
+ORD1129,CUST164,Books,UPI,860.52,10,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,774.47,Standard Order
+ORD1130,CUST188,Electronics,CREDIT CARD,2830.09,50,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,1415.04,Standard Order
+ORD1132,CUST108, Home ,UPI,492.51,50,4,7.0,2.0,No,Tier 1,3.0,Severe Delay,Normal Order,246.26,Standard Order
+ORD1133,CUST187,Beauty,UPI,1262.23,20,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,1009.78,Standard Order
+ORD1134,CUST228,Books,CREDIT CARD,1896.95,30,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,1327.86,Loyal & Satisfied
+ORD1135,CUST335,Fashion,CREDIT CARD,601.89,5,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,571.8,Standard Order
+ORD1136,CUST235,Books,COD,2864.02,5,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2720.82,Loyal & Satisfied
+ORD1137,CUST315,Fashion,COD,1380.62,10,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,1242.56,Loyal & Satisfied
+ORD1138,CUST162, Beauty ,COD,470.92,0,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,470.92,Standard Order
+ORD1139,CUST238,Fashion,CREDIT CARD,1511.95,30,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,1058.36,Loyal & Satisfied
+ORD1140,CUST342,Home,COD,12438.25,20,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,High Value Order,9950.6,Standard Order
+ORD1141,CUST180,Home,UPI,444.7,30,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,311.29,Standard Order
+ORD1142,CUST235,Home,DEBIT CARD,2745.41,10,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,2470.87,Loyal & Satisfied
+ORD1143,CUST262,Home,UPI,548.48,15,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,466.21,Standard Order
+ORD1144,CUST262,Books,COD,2487.56,15,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,2114.43,Standard Order
+ORD1145,CUST132, Beauty ,DEBIT CARD,2189.65,10,2,7.0,1.0,No,Tier 2,5.0,Severe Delay,Normal Order,1970.69,Standard Order
+ORD1146,CUST222,Fashion,UPI,736.06,20,7,7.0,2.0,No,Tier 1,0.0,On-Time,Normal Order,588.85,Standard Order
+ORD1147,CUST104,Fashion,UPI,791.39,50,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,395.7,Standard Order
+ORD1148,CUST333,Home,CREDIT CARD,2559.09,10,3,7.0,5.0,No,Tier 3,4.0,Severe Delay,Normal Order,2303.18,Loyal & Satisfied
+ORD1149,CUST330,Home,DEBIT CARD,1128.3,20,7,7.0,1.0,No,Tier 2,0.0,On-Time,Normal Order,902.64,Standard Order
+ORD1150,CUST349,Electronics,UPI,2168.55,5,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,2060.12,Loyal & Satisfied
+ORD1151,CUST140,Beauty,COD,440.23,10,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,396.21,Standard Order
+ORD1152,CUST127,Books,UPI,3071.48,20,7,7.0,2.0,Yes,Tier 3,0.0,On-Time,Normal Order,2457.18,Standard Order
+ORD1153,CUST234,Fashion,COD,2061.39,10,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1855.25,Loyal & Satisfied
+ORD1154,CUST300, Electronics ,CREDIT CARD,3761.81,10,7,7.0,3.0,No,Tier 3,0.0,On-Time,Normal Order,3385.63,Standard Order
+ORD1155,CUST171,Electronics,CREDIT CARD,412.99,50,6,7.0,4.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,206.5,High Risk Transaction
+ORD1156,CUST111,Fashion,CREDIT CARD,1548.47,50,4,7.0,5.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,774.24,High Risk Transaction
+ORD1157,CUST261,Books,DEBIT CARD,1571.14,20,3,7.0,4.0,No,Tier 3,4.0,Severe Delay,Normal Order,1256.91,Loyal & Satisfied
+ORD1158,CUST132, Electronics ,COD,854.18,20,6,7.0,2.0,Yes,Tier 2,1.0,Unknown Status,Normal Order,683.34,Standard Order
+ORD1160,CUST346,Beauty,UPI,258.08,10,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,232.27,Standard Order
+ORD1161,CUST250,Books,UPI,2254.81,15,7,7.0,5.0,No,Tier 2,0.0,On-Time,Normal Order,1916.59,Loyal & Satisfied
+ORD1162,CUST161,Electronics,COD,1395.5,10,6,7.0,2.0,No,Tier 1,1.0,Unknown Status,Normal Order,1255.95,Standard Order
+ORD1163,CUST315,Books,UPI,289.21,10,5,7.0,1.0,No,Tier 2,2.0,Unknown Status,Normal Order,260.29,Standard Order
+ORD1164,CUST136,Fashion,COD,1912.7,20,7,7.0,1.0,No,Tier 2,0.0,On-Time,Normal Order,1530.16,Standard Order
+ORD1165,CUST198, Home ,UPI,1143.24,10,5,7.0,3.0,No,Tier 3,2.0,Unknown Status,Normal Order,1028.92,Standard Order
+ORD1166,CUST271,Electronics,CREDIT CARD,252.6,30,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,176.82,Standard Order
+ORD1167,CUST203,Beauty,DEBIT CARD,5440.35,10,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,High Value Order,4896.32,Loyal & Satisfied
+ORD1169,CUST318,Books,DEBIT CARD,1278.94,50,4,7.0,3.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,639.47,High Risk Transaction
+ORD1170,CUST134,Fashion,DEBIT CARD,347.53,15,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,295.4,Standard Order
+ORD1171,CUST292,Electronics,UPI,2307.43,20,7,7.0,2.0,Yes,Tier 1,0.0,On-Time,Normal Order,1845.94,Standard Order
+ORD1172,CUST326, Books ,UPI,1215.71,10,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,1094.14,Standard Order
+ORD1173,CUST200,Home,UPI,740.27,30,5,7.0,4.0,Yes,Tier 2,2.0,Unknown Status,Normal Order,518.19,High Risk Transaction
+ORD1174,CUST274, Fashion ,UPI,1214.19,30,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,849.93,Standard Order
+ORD1175,CUST305,Electronics,UPI,1308.61,50,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,654.3,Standard Order
+ORD1176,CUST230,Beauty,UPI,1440.74,30,2,7.0,3.0,Yes,Tier 2,5.0,Severe Delay,Normal Order,1008.52,High Risk Transaction
+ORD1177,CUST100,Books,CREDIT CARD,1073.01,5,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1019.36,Standard Order
+ORD1178,CUST104,Fashion,UPI,1596.18,0,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,1596.18,Loyal & Satisfied
+ORD1179,CUST317,Fashion,CREDIT CARD,3965.05,15,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,3370.29,Loyal & Satisfied
+ORD1180,CUST346,Home,DEBIT CARD,874.76,50,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,437.38,Standard Order
+ORD1181,CUST241,Home,COD,2140.39,50,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1070.2,Loyal & Satisfied
+ORD1183,CUST126,Beauty,UPI,1113.15,5,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,1057.49,Standard Order
+ORD1184,CUST236,Electronics,UPI,1079.01,10,6,7.0,2.0,No,Tier 2,1.0,Unknown Status,Normal Order,971.11,Standard Order
+ORD1185,CUST306,Electronics,COD,1582.4,10,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,1424.16,Loyal & Satisfied
+ORD1186,CUST114,Beauty,UPI,1542.55,20,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,1234.04,Loyal & Satisfied
+ORD1187,CUST189,Beauty,COD,2664.41,20,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,2131.53,Standard Order
+ORD1188,CUST141,Books,CREDIT CARD,1170.78,20,6,7.0,4.0,Yes,Tier 1,1.0,Unknown Status,Normal Order,936.62,Standard Order
+ORD1189,CUST223,Home,CREDIT CARD,8529.02,5,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,High Value Order,8102.57,Loyal & Satisfied
+ORD1190,CUST304,Electronics,UPI,291.97,10,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,262.77,Standard Order
+ORD1191,CUST278,Home,CREDIT CARD,204.76,0,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,204.76,Standard Order
+ORD1192,CUST162,Home,UPI,1733.3,15,3,7.0,5.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,1473.3,Standard Order
+ORD1193,CUST195,Beauty,UPI,731.66,20,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,585.33,Standard Order
+ORD1194,CUST330,Books,UPI,612.41,20,3,7.0,5.0,No,Tier 3,4.0,Severe Delay,Normal Order,489.93,Standard Order
+ORD1195,CUST340,Fashion,DEBIT CARD,760.73,50,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,380.36,Standard Order
+ORD1196,CUST151,Books,DEBIT CARD,643.67,10,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,579.3,Standard Order
+ORD1197,CUST195,Books,UPI,246.91,10,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,222.22,Standard Order
+ORD1198,CUST231,Home,COD,5538.52,5,7,7.0,4.0,No,Tier 1,0.0,On-Time,High Value Order,5261.59,Loyal & Satisfied
+ORD1199,CUST321,Books,UPI,574.13,5,4,7.0,2.0,No,Tier 2,3.0,Severe Delay,Normal Order,545.42,Standard Order
+ORD1200,CUST328,Electronics,COD,2186.56,20,2,7.0,2.0,No,Tier 2,5.0,Severe Delay,Normal Order,1749.25,Standard Order
+ORD1203,CUST336, Fashion ,DEBIT CARD,246.54,15,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,209.56,Standard Order
+ORD1204,CUST242,Home,UPI,3284.15,10,6,7.0,5.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,2955.74,Standard Order
+ORD1205,CUST270,Fashion,CREDIT CARD,1323.71,50,3,7.0,4.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,661.86,High Risk Transaction
+ORD1206,CUST128,Home,UPI,1701.73,10,4,7.0,3.0,No,Tier 3,3.0,Severe Delay,Normal Order,1531.56,Standard Order
+ORD1207,CUST135,Beauty,CREDIT CARD,1751.22,30,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,1225.85,Loyal & Satisfied
+ORD1208,CUST112,Books,CREDIT CARD,2770.51,5,3,7.0,5.0,No,Tier 3,4.0,Severe Delay,Normal Order,2631.98,Loyal & Satisfied
+ORD1209,CUST259,Beauty,DEBIT CARD,808.36,50,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,404.18,Standard Order
+ORD1210,CUST170,Fashion,UPI,2181.05,15,3,7.0,4.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,1853.89,Standard Order
+ORD1211,CUST286,Books,DEBIT CARD,1328.0,20,5,7.0,5.0,No,Tier 3,2.0,Unknown Status,Normal Order,1062.4,Loyal & Satisfied
+ORD1213,CUST185,Books,UPI,7191.98,10,7,7.0,4.0,No,Tier 1,0.0,On-Time,High Value Order,6472.78,Loyal & Satisfied
+ORD1214,CUST127,Electronics,UPI,535.94,20,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,428.75,Standard Order
+ORD1215,CUST165, Books ,CREDIT CARD,8045.61,10,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,High Value Order,7241.05,Loyal & Satisfied
+ORD1216,CUST269, Electronics ,DEBIT CARD,341.16,20,2,7.0,1.0,No,Tier 2,5.0,Severe Delay,Normal Order,272.93,Standard Order
+ORD1218,CUST161,Electronics,UPI,267.75,5,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,254.36,Standard Order
+ORD1219,CUST284,Fashion,COD,827.33,15,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,703.23,Standard Order
+ORD1220,CUST344,Beauty,UPI,1703.21,30,3,7.0,3.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,1192.25,High Risk Transaction
+ORD1221,CUST233,Home,CREDIT CARD,307.29,0,3,7.0,5.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,307.29,Standard Order
+ORD1222,CUST127,Books,COD,208.52,5,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,198.09,Standard Order
+ORD1225,CUST143,Home,CREDIT CARD,2684.66,0,4,7.0,2.0,No,Tier 2,3.0,Severe Delay,Normal Order,2684.66,Standard Order
+ORD1226,CUST183,Electronics,COD,3436.74,30,5,7.0,2.0,No,Tier 1,2.0,Unknown Status,Normal Order,2405.72,Standard Order
+ORD1227,CUST129,Fashion,CREDIT CARD,2006.13,10,2,7.0,2.0,No,Tier 2,5.0,Severe Delay,Normal Order,1805.52,Standard Order
+ORD1228,CUST289,Fashion,UPI,365.4,10,5,7.0,2.0,No,Tier 2,2.0,Unknown Status,Normal Order,328.86,Standard Order
+ORD1229,CUST174,Beauty,UPI,963.99,20,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,771.19,Standard Order
+ORD1230,CUST227,Fashion,CREDIT CARD,2126.42,5,3,7.0,2.0,No,Tier 1,4.0,Severe Delay,Normal Order,2020.1,Standard Order
+ORD1231,CUST349,Books,COD,693.45,10,3,7.0,3.0,No,Tier 2,4.0,Severe Delay,Normal Order,624.1,Standard Order
+ORD1232,CUST346,Fashion,UPI,1944.28,50,3,7.0,2.0,No,Tier 1,4.0,Severe Delay,Normal Order,972.14,Standard Order
+ORD1233,CUST191,Beauty,UPI,237.21,30,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,166.05,Standard Order
+ORD1234,CUST316,Fashion,CREDIT CARD,748.22,5,5,7.0,2.0,No,Tier 2,2.0,Unknown Status,Normal Order,710.81,Standard Order
+ORD1235,CUST330,Books,CREDIT CARD,1394.87,50,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,697.44,Loyal & Satisfied
+ORD1236,CUST289,Electronics,DEBIT CARD,1699.87,10,3,7.0,3.0,No,Tier 3,4.0,Severe Delay,Normal Order,1529.88,Standard Order
+ORD1237,CUST324,Beauty,UPI,1490.72,20,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,1192.58,Loyal & Satisfied
+ORD1238,CUST228,Electronics,UPI,1994.78,15,3,7.0,5.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,1695.56,Standard Order
+ORD1239,CUST220,Electronics,COD,209.16,20,4,7.0,1.0,No,Tier 2,3.0,Severe Delay,Normal Order,167.33,Standard Order
+ORD1240,CUST126,Electronics,DEBIT CARD,359.61,50,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,179.8,Standard Order
+ORD1242,CUST220,Home,UPI,1917.37,10,4,7.0,3.0,No,Tier 1,3.0,Severe Delay,Normal Order,1725.63,Standard Order
+ORD1243,CUST215, Electronics ,UPI,379.75,50,5,7.0,1.0,No,Tier 1,2.0,Unknown Status,Normal Order,189.88,Standard Order
+ORD1244,CUST304,Beauty,COD,2968.45,0,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2968.45,Loyal & Satisfied
+ORD1245,CUST332,Books,UPI,616.07,0,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,616.07,Standard Order
+ORD1246,CUST102,Books,CREDIT CARD,1175.88,30,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,823.12,Standard Order
+ORD1247,CUST202,Fashion,UPI,435.33,5,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,413.56,Standard Order
+ORD1248,CUST297,Beauty,DEBIT CARD,2057.38,30,7,7.0,5.0,Yes,Tier 2,0.0,On-Time,Normal Order,1440.17,High Risk Transaction
+ORD1249,CUST299,Home,COD,1848.76,10,3,7.0,3.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,1663.88,Standard Order
+ORD1250,CUST254,Electronics,DEBIT CARD,555.7,0,2,7.0,5.0,Yes,Tier 2,5.0,Severe Delay,Normal Order,555.7,Standard Order
+ORD1251,CUST236,Fashion,COD,3186.06,50,3,7.0,3.0,No,Tier 2,4.0,Severe Delay,Normal Order,1593.03,Standard Order
+ORD1252,CUST161,Books,COD,969.51,15,5,7.0,3.0,No,Tier 3,2.0,Unknown Status,Normal Order,824.08,Standard Order
+ORD1253,CUST264,Home,CREDIT CARD,719.06,0,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,719.06,Standard Order
+ORD1254,CUST324,Home,UPI,447.9,50,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,223.95,Standard Order
+ORD1255,CUST150,Electronics,CREDIT CARD,664.21,15,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,564.58,Standard Order
+ORD1256,CUST333,Books,CREDIT CARD,233.41,30,7,7.0,5.0,No,Tier 3,0.0,On-Time,Normal Order,163.39,Standard Order
+ORD1257,CUST271,Beauty,COD,1512.93,30,5,7.0,2.0,No,Tier 1,2.0,Unknown Status,Normal Order,1059.05,Standard Order
+ORD1258,CUST251, Home ,UPI,2969.93,5,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,2821.43,Loyal & Satisfied
+ORD1259,CUST306,Electronics,UPI,1394.37,50,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,697.18,Loyal & Satisfied
+ORD1260,CUST158,Beauty,CREDIT CARD,571.3,0,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,571.3,Standard Order
+ORD1261,CUST217,Books,UPI,251.37,20,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,201.1,Standard Order
+ORD1262,CUST259,Home,CREDIT CARD,562.4,30,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,393.68,Standard Order
+ORD1265,CUST332,Beauty,CREDIT CARD,512.09,15,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,435.28,Standard Order
+ORD1266,CUST279,Home,DEBIT CARD,2108.33,5,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,2002.91,Standard Order
+ORD1267,CUST212,Home,CREDIT CARD,3225.36,0,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,3225.36,Standard Order
+ORD1268,CUST161,Fashion,CREDIT CARD,1107.56,50,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,Normal Order,553.78,Standard Order
+ORD1269,CUST340,Books,CREDIT CARD,2784.18,10,7,7.0,5.0,No,Tier 1,0.0,On-Time,Normal Order,2505.76,Loyal & Satisfied
+ORD1270,CUST285,Electronics,UPI,1413.37,10,6,7.0,2.0,No,Tier 2,1.0,Unknown Status,Normal Order,1272.03,Standard Order
+ORD1272,CUST111,Fashion,UPI,1320.7,15,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,1122.6,Standard Order
+ORD1273,CUST138,Electronics,UPI,1133.12,30,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,793.18,Standard Order
+ORD1274,CUST229,Fashion,DEBIT CARD,601.14,15,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,510.97,Standard Order
+ORD1275,CUST230, Home ,CREDIT CARD,741.87,30,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,519.31,Standard Order
+ORD1276,CUST212,Beauty,UPI,713.67,30,4,7.0,4.0,Yes,Tier 2,3.0,Severe Delay,Normal Order,499.57,High Risk Transaction
+ORD1277,CUST200,Electronics,COD,1442.73,10,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,1298.46,Loyal & Satisfied
+ORD1278,CUST212,Electronics,DEBIT CARD,391.67,15,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,332.92,Standard Order
+ORD1279,CUST283,Electronics,UPI,3929.61,5,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,3733.13,Standard Order
+ORD1280,CUST180,Electronics,UPI,2112.96,30,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,1479.07,Standard Order
+ORD1281,CUST286,Electronics,COD,969.86,20,3,7.0,2.0,No,Tier 1,4.0,Severe Delay,Normal Order,775.89,Standard Order
+ORD1282,CUST212,Fashion,CREDIT CARD,459.08,20,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,367.26,Standard Order
+ORD1284,CUST229,Home,UPI,2804.02,20,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,2243.22,Loyal & Satisfied
+ORD1285,CUST319,Home,UPI,2118.7,0,3,7.0,3.0,No,Tier 3,4.0,Severe Delay,Normal Order,2118.7,Standard Order
+ORD1286,CUST153,Home,UPI,675.25,30,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,472.67,Standard Order
+ORD1287,CUST186,Home,UPI,972.37,5,3,7.0,1.0,No,Tier 1,4.0,Severe Delay,Normal Order,923.75,Standard Order
+ORD1288,CUST328,Fashion,DEBIT CARD,362.63,15,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,308.24,Standard Order
+ORD1289,CUST323,Books,UPI,514.3,30,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,360.01,Standard Order
+ORD1290,CUST324,Beauty,COD,2491.9,5,5,7.0,1.0,No,Tier 1,2.0,Unknown Status,Normal Order,2367.3,Standard Order
+ORD1291,CUST228,Electronics,DEBIT CARD,2083.1,10,5,7.0,5.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,1874.79,Standard Order
+ORD1292,CUST246, Books ,CREDIT CARD,1550.2,15,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,1317.67,Loyal & Satisfied
+ORD1293,CUST225,Home,DEBIT CARD,3591.11,10,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,3232.0,Loyal & Satisfied
+ORD1296,CUST271,Electronics,DEBIT CARD,824.12,20,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,659.3,Standard Order
+ORD1298,CUST259,Beauty,UPI,329.51,30,4,7.0,1.0,No,Tier 3,3.0,Severe Delay,Normal Order,230.66,Standard Order
+ORD1299,CUST297,Beauty,CREDIT CARD,4208.03,0,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,4208.03,Loyal & Satisfied
+ORD1300,CUST259, Home ,CREDIT CARD,2829.22,15,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,2404.84,Loyal & Satisfied
+ORD1301,CUST346,Electronics,UPI,408.77,15,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,347.45,Standard Order
+ORD1302,CUST167,Books,UPI,1448.56,50,3,7.0,1.0,No,Tier 1,4.0,Severe Delay,Normal Order,724.28,Standard Order
+ORD1303,CUST282,Fashion,UPI,3221.02,30,6,7.0,4.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,2254.71,High Risk Transaction
+ORD1304,CUST302,Fashion,UPI,1472.28,30,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,1030.6,Loyal & Satisfied
+ORD1305,CUST283,Beauty,UPI,3765.96,10,6,7.0,3.0,No,Tier 2,1.0,Unknown Status,Normal Order,3389.36,Standard Order
+ORD1306,CUST222,Home,UPI,4496.63,50,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,High Value Order,2248.32,Loyal & Satisfied
+ORD1307,CUST244,Fashion,CREDIT CARD,1023.27,20,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,818.62,Standard Order
+ORD1308,CUST137,Electronics,UPI,910.57,10,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,819.51,Standard Order
+ORD1309,CUST123, Beauty ,DEBIT CARD,4330.85,50,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,2165.43,Loyal & Satisfied
+ORD1310,CUST168,Books,COD,1886.54,10,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,1697.89,Loyal & Satisfied
+ORD1311,CUST215,Beauty,CREDIT CARD,384.99,20,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,307.99,Standard Order
+ORD1312,CUST197,Books,UPI,264.82,50,7,7.0,5.0,No,Tier 2,0.0,On-Time,Normal Order,132.41,Standard Order
+ORD1314,CUST313, Beauty ,COD,4192.56,0,3,7.0,2.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,4192.56,Standard Order
+ORD1315,CUST238,Beauty,CREDIT CARD,2989.24,10,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,2690.32,Loyal & Satisfied
+ORD1316,CUST339,Books,UPI,1889.81,10,3,7.0,3.0,No,Tier 2,4.0,Severe Delay,Normal Order,1700.83,Standard Order
+ORD1318,CUST196,Beauty,UPI,640.01,20,5,7.0,5.0,No,Tier 3,2.0,Unknown Status,Normal Order,512.01,Standard Order
+ORD1319,CUST300,Fashion,UPI,3325.31,5,7,7.0,2.0,No,Tier 1,0.0,On-Time,Normal Order,3159.04,Standard Order
+ORD1320,CUST223,Home,CREDIT CARD,502.82,0,7,7.0,5.0,Yes,Tier 3,0.0,On-Time,Normal Order,502.82,Standard Order
+ORD1321,CUST286,Home,UPI,689.51,50,5,7.0,3.0,Yes,Tier 2,2.0,Unknown Status,Normal Order,344.76,High Risk Transaction
+ORD1322,CUST169,Home,CREDIT CARD,408.2,50,6,7.0,5.0,Yes,Tier 2,1.0,Unknown Status,Normal Order,204.1,High Risk Transaction
+ORD1323,CUST307,Books,DEBIT CARD,1891.02,50,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,945.51,Loyal & Satisfied
+ORD1324,CUST192,Books,COD,4523.13,0,7,7.0,1.0,No,Tier 1,0.0,On-Time,High Value Order,4523.13,Standard Order
+ORD1325,CUST102,Fashion,CREDIT CARD,669.95,50,7,7.0,4.0,Yes,Tier 1,0.0,On-Time,Normal Order,334.98,High Risk Transaction
+ORD1326,CUST247, Home ,DEBIT CARD,1167.7,50,6,7.0,3.0,No,Tier 3,1.0,Unknown Status,Normal Order,583.85,Standard Order
+ORD1328,CUST263,Beauty,CREDIT CARD,11503.37,30,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,High Value Order,8052.36,Loyal & Satisfied
+ORD1329,CUST246,Books,COD,366.08,30,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,256.26,Standard Order
+ORD1330,CUST189,Home,COD,1235.44,15,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,1050.12,Standard Order
+ORD1331,CUST294,Fashion,DEBIT CARD,929.49,15,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,790.07,Standard Order
+ORD1332,CUST246,Fashion,UPI,3212.86,50,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,1606.43,Loyal & Satisfied
+ORD1333,CUST247,Home,CREDIT CARD,1169.3,20,3,7.0,4.0,No,Tier 3,4.0,Severe Delay,Normal Order,935.44,Standard Order
+ORD1334,CUST195,Books,CREDIT CARD,376.45,50,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,188.22,Standard Order
+ORD1335,CUST298, Fashion ,CREDIT CARD,1709.42,15,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,1453.01,Loyal & Satisfied
+ORD1336,CUST151,Beauty,CREDIT CARD,2409.61,0,6,7.0,2.0,No,Tier 3,1.0,Unknown Status,Normal Order,2409.61,Standard Order
+ORD1337,CUST332, Fashion ,UPI,204.33,0,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,204.33,Standard Order
+ORD1338,CUST260,Electronics,UPI,3138.03,5,4,7.0,1.0,No,Tier 2,3.0,Severe Delay,Normal Order,2981.13,Standard Order
+ORD1339,CUST267,Electronics,UPI,508.73,30,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,356.11,Standard Order
+ORD1340,CUST227,Books,CREDIT CARD,1404.68,20,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,1123.74,Standard Order
+ORD1341,CUST138,Home,UPI,1006.26,10,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,905.63,Standard Order
+ORD1342,CUST181,Books,COD,2107.6,30,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,1475.32,Loyal & Satisfied
+ORD1343,CUST203,Books,CREDIT CARD,895.82,10,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,806.24,Standard Order
+ORD1344,CUST228, Books ,UPI,3257.6,5,7,7.0,5.0,No,Tier 2,0.0,On-Time,Normal Order,3094.72,Loyal & Satisfied
+ORD1345,CUST110,Books,COD,2166.76,5,7,7.0,3.0,No,Tier 3,0.0,On-Time,Normal Order,2058.42,Standard Order
+ORD1346,CUST319,Beauty,CREDIT CARD,1764.96,50,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,882.48,Standard Order
+ORD1347,CUST284,Beauty,COD,2586.22,15,2,7.0,5.0,No,Tier 2,5.0,Severe Delay,Normal Order,2198.29,Loyal & Satisfied
+ORD1348,CUST316,Fashion,UPI,2303.78,5,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,2188.59,Loyal & Satisfied
+ORD1350,CUST250, Books ,UPI,953.13,10,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,857.82,Standard Order
+ORD1351,CUST258,Fashion,UPI,4206.29,15,7,7.0,5.0,No,Tier 2,0.0,On-Time,Normal Order,3575.35,Loyal & Satisfied
+ORD1352,CUST321,Electronics,UPI,401.54,5,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,381.46,Standard Order
+ORD1353,CUST141,Home,UPI,2203.95,30,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,1542.76,Loyal & Satisfied
+ORD1354,CUST198,Beauty,DEBIT CARD,5709.03,5,2,7.0,5.0,Yes,Tier 1,5.0,Severe Delay,High Value Order,5423.58,Standard Order
+ORD1355,CUST106,Electronics,DEBIT CARD,280.42,15,7,7.0,2.0,No,Tier 3,0.0,On-Time,Normal Order,238.36,Standard Order
+ORD1356,CUST243,Home,UPI,1919.47,50,5,7.0,2.0,No,Tier 3,2.0,Unknown Status,Normal Order,959.74,Standard Order
+ORD1357,CUST189,Electronics,DEBIT CARD,1147.1,20,3,7.0,4.0,No,Tier 3,4.0,Severe Delay,Normal Order,917.68,Standard Order
+ORD1358,CUST211,Beauty,CREDIT CARD,1498.31,15,6,7.0,4.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,1273.56,Standard Order
+ORD1359,CUST348,Beauty,CREDIT CARD,333.81,10,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,300.43,Standard Order
+ORD1361,CUST159,Books,UPI,1848.82,30,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1294.17,Loyal & Satisfied
+ORD1362,CUST212,Electronics,CREDIT CARD,2800.03,0,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2800.03,Loyal & Satisfied
+ORD1363,CUST101,Electronics,CREDIT CARD,2485.0,15,7,7.0,1.0,No,Tier 1,0.0,On-Time,Normal Order,2112.25,Standard Order
+ORD1364,CUST228,Home,CREDIT CARD,1377.25,50,4,7.0,3.0,No,Tier 1,3.0,Severe Delay,Normal Order,688.62,Standard Order
+ORD1365,CUST147,Beauty,UPI,357.82,10,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,322.04,Standard Order
+ORD1366,CUST239,Electronics,UPI,1947.34,30,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,1363.14,Loyal & Satisfied
+ORD1367,CUST296,Beauty,UPI,615.39,20,4,7.0,3.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,492.31,Standard Order
+ORD1368,CUST136,Electronics,UPI,3829.84,30,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,2680.89,Loyal & Satisfied
+ORD1369,CUST259, Fashion ,UPI,2932.7,15,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,2492.79,Loyal & Satisfied
+ORD1370,CUST346,Books,UPI,2053.62,5,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,1950.94,Loyal & Satisfied
+ORD1371,CUST108,Electronics,DEBIT CARD,4659.37,50,7,7.0,1.0,No,Tier 3,0.0,On-Time,High Value Order,2329.68,Standard Order
+ORD1372,CUST332,Beauty,CREDIT CARD,247.89,15,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,210.71,Standard Order
+ORD1373,CUST198,Fashion,COD,2198.85,0,7,7.0,3.0,Yes,Tier 2,0.0,On-Time,Normal Order,2198.85,Standard Order
+ORD1374,CUST246,Electronics,COD,801.26,15,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,681.07,Standard Order
+ORD1375,CUST147, Home ,UPI,3747.74,20,4,7.0,2.0,No,Tier 2,3.0,Severe Delay,Normal Order,2998.19,Standard Order
+ORD1376,CUST307,Books,UPI,665.25,20,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,532.2,Standard Order
+ORD1377,CUST230,Electronics,COD,2135.69,15,4,7.0,2.0,No,Tier 3,3.0,Severe Delay,Normal Order,1815.34,Standard Order
+ORD1378,CUST247,Fashion,DEBIT CARD,3351.27,20,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,Normal Order,2681.02,Loyal & Satisfied
+ORD1379,CUST251,Home,CREDIT CARD,263.82,5,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,250.63,Standard Order
+ORD1380,CUST153,Fashion,UPI,960.37,30,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,672.26,Standard Order
+ORD1381,CUST219, Fashion ,UPI,2355.18,15,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,2001.9,Loyal & Satisfied
+ORD1382,CUST260,Home,CREDIT CARD,1110.23,50,2,7.0,3.0,Yes,Tier 3,5.0,Severe Delay,Normal Order,555.12,High Risk Transaction
+ORD1383,CUST251,Fashion,CREDIT CARD,666.43,5,7,7.0,4.0,Yes,Tier 2,0.0,On-Time,Normal Order,633.11,Standard Order
+ORD1384,CUST215,Home,COD,572.32,30,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,400.62,Standard Order
+ORD1385,CUST174,Electronics,CREDIT CARD,411.51,50,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,205.76,Standard Order
+ORD1386,CUST212,Home,UPI,3118.73,50,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,1559.36,Loyal & Satisfied
+ORD1387,CUST299,Home,UPI,1484.75,50,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,742.38,Loyal & Satisfied
+ORD1388,CUST263,Books,COD,319.19,30,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,223.43,Standard Order
+ORD1389,CUST265, Home ,CREDIT CARD,923.31,5,2,7.0,1.0,No,Tier 1,5.0,Severe Delay,Normal Order,877.14,Standard Order
+ORD1390,CUST203, Home ,COD,887.67,50,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,443.84,Standard Order
+ORD1391,CUST183,Electronics,CREDIT CARD,500.86,50,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,250.43,Standard Order
+ORD1392,CUST326,Books,CREDIT CARD,1057.74,10,5,7.0,3.0,No,Tier 3,2.0,Unknown Status,Normal Order,951.97,Standard Order
+ORD1393,CUST211,Beauty,DEBIT CARD,805.42,15,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,684.61,Standard Order
+ORD1394,CUST316,Electronics,UPI,827.38,30,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,579.17,Standard Order
+ORD1395,CUST198,Electronics,UPI,2215.0,30,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,1550.5,Loyal & Satisfied
+ORD1396,CUST252, Beauty ,UPI,578.98,20,6,7.0,2.0,No,Tier 1,1.0,Unknown Status,Normal Order,463.18,Standard Order
+ORD1398,CUST245, Fashion ,CREDIT CARD,1468.22,5,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,1394.81,Loyal & Satisfied
+ORD1399,CUST227,Books,UPI,1459.32,30,4,7.0,3.0,No,Tier 1,3.0,Severe Delay,Normal Order,1021.52,Standard Order
+ORD1400,CUST209,Fashion,COD,1831.54,10,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,1648.39,Standard Order
+ORD1401,CUST181,Beauty,DEBIT CARD,1392.38,15,7,7.0,4.0,Yes,Tier 3,0.0,On-Time,Normal Order,1183.52,Standard Order
+ORD1402,CUST293, Electronics ,CREDIT CARD,3371.11,15,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2865.44,Loyal & Satisfied
+ORD1403,CUST153,Electronics,UPI,1888.57,30,2,7.0,3.0,No,Tier 2,5.0,Severe Delay,Normal Order,1322.0,Standard Order
+ORD1404,CUST262,Books,CREDIT CARD,1387.67,50,3,7.0,2.0,No,Tier 2,4.0,Severe Delay,Normal Order,693.84,Standard Order
+ORD1405,CUST307,Electronics,CREDIT CARD,2855.85,0,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,2855.85,Loyal & Satisfied
+ORD1406,CUST288, Electronics ,COD,1597.66,0,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,1597.66,Loyal & Satisfied
+ORD1407,CUST268,Books,CREDIT CARD,716.15,50,2,7.0,4.0,Yes,Tier 3,5.0,Severe Delay,Normal Order,358.08,High Risk Transaction
+ORD1408,CUST327,Books,CREDIT CARD,548.08,50,3,7.0,5.0,No,Tier 3,4.0,Severe Delay,Normal Order,274.04,Standard Order
+ORD1409,CUST260,Beauty,DEBIT CARD,447.89,50,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,223.94,Standard Order
+ORD1410,CUST167,Electronics,DEBIT CARD,3645.73,5,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,3463.44,Loyal & Satisfied
+ORD1411,CUST132,Electronics,DEBIT CARD,2057.51,0,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,2057.51,Loyal & Satisfied
+ORD1412,CUST241,Beauty,CREDIT CARD,4355.97,50,6,7.0,2.0,No,Tier 1,1.0,Unknown Status,Normal Order,2177.98,Standard Order
+ORD1414,CUST147,Home,CREDIT CARD,1161.97,20,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,929.58,Standard Order
+ORD1415,CUST247,Home,CREDIT CARD,292.36,5,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,277.74,Standard Order
+ORD1416,CUST347,Beauty,DEBIT CARD,1870.48,0,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,1870.48,Loyal & Satisfied
+ORD1420,CUST294, Home ,UPI,1334.89,5,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,1268.15,Standard Order
+ORD1422,CUST227,Electronics,UPI,1751.73,15,5,7.0,5.0,No,Tier 3,2.0,Unknown Status,Normal Order,1488.97,Loyal & Satisfied
+ORD1423,CUST132,Home,UPI,1435.89,0,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,Normal Order,1435.89,Loyal & Satisfied
+ORD1424,CUST275,Fashion,UPI,2450.39,50,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,1225.2,High Risk Transaction
+ORD1425,CUST303,Fashion,CREDIT CARD,544.08,5,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,516.88,Standard Order
+ORD1427,CUST214, Electronics ,UPI,1650.33,50,4,7.0,4.0,Yes,Tier 1,3.0,Severe Delay,Normal Order,825.16,High Risk Transaction
+ORD1428,CUST313,Fashion,CREDIT CARD,3596.13,50,7,7.0,5.0,No,Tier 2,0.0,On-Time,Normal Order,1798.06,Loyal & Satisfied
+ORD1429,CUST218,Home,CREDIT CARD,3017.88,50,4,7.0,3.0,No,Tier 3,3.0,Severe Delay,Normal Order,1508.94,Standard Order
+ORD1430,CUST121, Books ,UPI,767.83,50,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,383.92,Standard Order
+ORD1431,CUST337,Electronics,COD,684.94,20,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,547.95,Standard Order
+ORD1432,CUST257,Beauty,UPI,6197.46,0,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,High Value Order,6197.46,Loyal & Satisfied
+ORD1433,CUST137,Home,DEBIT CARD,1323.83,0,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,1323.83,Loyal & Satisfied
+ORD1434,CUST329,Fashion,CREDIT CARD,3753.42,15,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,3190.41,Loyal & Satisfied
+ORD1436,CUST150,Home,UPI,1744.27,10,5,7.0,2.0,Yes,Tier 3,2.0,Unknown Status,Normal Order,1569.84,Standard Order
+ORD1437,CUST281,Fashion,COD,2689.99,20,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,2151.99,Standard Order
+ORD1438,CUST107, Books ,DEBIT CARD,4617.42,5,7,7.0,4.0,No,Tier 2,0.0,On-Time,High Value Order,4386.55,Loyal & Satisfied
+ORD1439,CUST126,Electronics,CREDIT CARD,817.24,20,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,653.79,Standard Order
+ORD1440,CUST126,Books,CREDIT CARD,2136.37,0,5,7.0,1.0,No,Tier 3,2.0,Unknown Status,Normal Order,2136.37,Standard Order
+ORD1441,CUST325,Fashion,CREDIT CARD,1360.93,50,6,7.0,2.0,No,Tier 2,1.0,Unknown Status,Normal Order,680.46,Standard Order
+ORD1442,CUST120,Beauty,UPI,293.82,15,6,7.0,5.0,Yes,Tier 2,1.0,Unknown Status,Normal Order,249.75,Standard Order
+ORD1443,CUST129,Electronics,CREDIT CARD,1956.77,15,7,7.0,5.0,No,Tier 1,0.0,On-Time,Normal Order,1663.25,Loyal & Satisfied
+ORD1444,CUST196,Electronics,DEBIT CARD,1957.24,30,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,1370.07,Loyal & Satisfied
+ORD1445,CUST127, Home ,UPI,4201.95,10,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,3781.76,Loyal & Satisfied
+ORD1446,CUST210,Home,CREDIT CARD,1231.68,15,5,7.0,3.0,Yes,Tier 3,2.0,Unknown Status,Normal Order,1046.93,Standard Order
+ORD1447,CUST291,Beauty,CREDIT CARD,592.54,50,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,296.27,Standard Order
+ORD1448,CUST324,Electronics,CREDIT CARD,268.38,0,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,268.38,Standard Order
+ORD1449,CUST296,Beauty,COD,1005.86,10,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,905.27,Standard Order
+ORD1450,CUST160,Home,CREDIT CARD,739.13,5,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,702.17,Standard Order
+ORD1451,CUST147,Home,DEBIT CARD,2347.49,50,4,7.0,2.0,No,Tier 2,3.0,Severe Delay,Normal Order,1173.74,Standard Order
+ORD1452,CUST246,Electronics,COD,856.06,50,6,7.0,2.0,No,Tier 2,1.0,Unknown Status,Normal Order,428.03,Standard Order
+ORD1453,CUST103,Books,DEBIT CARD,4665.99,15,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,High Value Order,3966.09,Loyal & Satisfied
+ORD1454,CUST134,Fashion,COD,5117.55,10,2,7.0,5.0,No,Tier 2,5.0,Severe Delay,High Value Order,4605.8,Loyal & Satisfied
+ORD1455,CUST291,Home,UPI,1654.97,0,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,1654.97,Loyal & Satisfied
+ORD1456,CUST148,Home,UPI,4160.45,30,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2912.31,Loyal & Satisfied
+ORD1457,CUST116,Books,CREDIT CARD,2346.02,20,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,1876.82,Loyal & Satisfied
+ORD1458,CUST271,Books,CREDIT CARD,1387.33,20,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1109.86,Loyal & Satisfied
+ORD1459,CUST319,Beauty,DEBIT CARD,498.24,0,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,498.24,Standard Order
+ORD1460,CUST257,Beauty,UPI,1120.39,0,4,7.0,4.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,1120.39,Standard Order
+ORD1461,CUST320,Fashion,COD,1434.45,20,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,1147.56,Loyal & Satisfied
+ORD1462,CUST145,Fashion,CREDIT CARD,3192.23,30,3,7.0,4.0,No,Tier 3,4.0,Severe Delay,Normal Order,2234.56,Loyal & Satisfied
+ORD1463,CUST216,Electronics,CREDIT CARD,1184.74,10,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,1066.27,Standard Order
+ORD1464,CUST105,Beauty,UPI,3619.4,20,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,2895.52,Loyal & Satisfied
+ORD1465,CUST198,Home,CREDIT CARD,1882.89,0,7,7.0,5.0,No,Tier 3,0.0,On-Time,Normal Order,1882.89,Loyal & Satisfied
+ORD1466,CUST223, Beauty ,COD,421.01,15,3,7.0,5.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,357.86,Standard Order
+ORD1468,CUST136,Books,UPI,1323.73,30,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,926.61,Loyal & Satisfied
+ORD1469,CUST123,Beauty,UPI,946.02,50,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,473.01,Standard Order
+ORD1471,CUST340,Fashion,CREDIT CARD,372.94,15,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,317.0,Standard Order
+ORD1472,CUST145,Fashion,COD,1718.12,15,7,7.0,5.0,No,Tier 1,0.0,On-Time,Normal Order,1460.4,Loyal & Satisfied
+ORD1473,CUST280,Electronics,UPI,1234.44,50,2,7.0,2.0,No,Tier 3,5.0,Severe Delay,Normal Order,617.22,Standard Order
+ORD1474,CUST194,Beauty,COD,983.02,0,3,7.0,1.0,No,Tier 3,4.0,Severe Delay,Normal Order,983.02,Standard Order
+ORD1475,CUST198,Books,CREDIT CARD,4787.05,20,5,7.0,3.0,No,Tier 3,2.0,Unknown Status,High Value Order,3829.64,Standard Order
+ORD1476,CUST287,Home,UPI,1308.91,10,2,7.0,5.0,No,Tier 2,5.0,Severe Delay,Normal Order,1178.02,Standard Order
+ORD1477,CUST324,Fashion,UPI,571.0,30,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,399.7,Standard Order
+ORD1478,CUST215,Fashion,CREDIT CARD,1121.4,50,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,560.7,Standard Order
+ORD1479,CUST290,Home,CREDIT CARD,3977.15,30,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,2784.0,Loyal & Satisfied
+ORD1480,CUST312,Books,DEBIT CARD,490.55,15,7,7.0,5.0,Yes,Tier 1,0.0,On-Time,Normal Order,416.97,Standard Order
+ORD1481,CUST259,Books,DEBIT CARD,561.12,20,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,448.9,Standard Order
+ORD1482,CUST314,Beauty,COD,219.67,30,6,7.0,4.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,153.77,High Risk Transaction
+ORD1484,CUST166,Electronics,CREDIT CARD,2852.58,15,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,2424.69,Standard Order
+ORD1485,CUST227,Fashion,UPI,2175.84,10,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1958.26,Loyal & Satisfied
+ORD1486,CUST117,Beauty,UPI,857.85,20,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,686.28,Standard Order
+ORD1487,CUST124,Books,UPI,1997.54,30,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,1398.28,Loyal & Satisfied
+ORD1488,CUST333,Home,UPI,954.3,5,7,7.0,5.0,No,Tier 3,0.0,On-Time,Normal Order,906.58,Standard Order
+ORD1489,CUST322,Books,UPI,4783.12,30,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,High Value Order,3348.18,Loyal & Satisfied
+ORD1490,CUST153,Fashion,UPI,5319.27,20,4,7.0,3.0,No,Tier 2,3.0,Severe Delay,High Value Order,4255.42,Standard Order
+ORD1491,CUST157,Books,COD,948.33,30,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,663.83,Standard Order
+ORD1492,CUST166,Electronics,UPI,3088.5,50,6,7.0,1.0,No,Tier 2,1.0,Unknown Status,Normal Order,1544.25,Standard Order
+ORD1493,CUST203,Fashion,UPI,2424.8,30,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,1697.36,Loyal & Satisfied
+ORD1494,CUST273,Home,UPI,756.6,0,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,756.6,Standard Order
+ORD1495,CUST123,Electronics,COD,596.03,30,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,417.22,Standard Order
+ORD1496,CUST213,Fashion,CREDIT CARD,1119.38,30,2,7.0,4.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,783.57,High Risk Transaction
+ORD1497,CUST131,Home,UPI,2480.42,10,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,2232.38,Loyal & Satisfied
+ORD1498,CUST274, Electronics ,CREDIT CARD,5034.62,5,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,High Value Order,4782.89,Loyal & Satisfied
+ORD1499,CUST185,Electronics,UPI,2363.21,10,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,2126.89,Loyal & Satisfied
+ORD1500,CUST250,Fashion,COD,3098.68,10,7,7.0,5.0,No,Tier 1,0.0,On-Time,Normal Order,2788.81,Loyal & Satisfied
+ORD1501,CUST293,Beauty,COD,1585.97,15,7,7.0,5.0,No,Tier 2,0.0,On-Time,Normal Order,1348.07,Loyal & Satisfied
+ORD1503,CUST254,Electronics,UPI,2501.64,10,5,7.0,3.0,No,Tier 3,2.0,Unknown Status,Normal Order,2251.48,Standard Order
+ORD1504,CUST333,Home,DEBIT CARD,909.78,50,7,7.0,4.0,Yes,Tier 3,0.0,On-Time,Normal Order,454.89,High Risk Transaction
+ORD1505,CUST229,Books,CREDIT CARD,1404.41,20,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,1123.53,Loyal & Satisfied
+ORD1506,CUST317,Fashion,CREDIT CARD,2650.24,50,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,1325.12,Loyal & Satisfied
+ORD1507,CUST116,Fashion,CREDIT CARD,270.73,20,2,7.0,2.0,No,Tier 1,5.0,Severe Delay,Normal Order,216.58,Standard Order
+ORD1508,CUST203,Beauty,CREDIT CARD,2676.01,30,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,1873.21,Loyal & Satisfied
+ORD1509,CUST260,Beauty,UPI,493.82,15,3,7.0,2.0,No,Tier 3,4.0,Severe Delay,Normal Order,419.75,Standard Order
+ORD1510,CUST236,Fashion,UPI,1284.43,0,4,7.0,3.0,No,Tier 3,3.0,Severe Delay,Normal Order,1284.43,Standard Order
+ORD1511,CUST142,Beauty,COD,2677.54,50,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,1338.77,Loyal & Satisfied
+ORD1512,CUST345,Home,UPI,639.18,0,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,639.18,Standard Order
+ORD1514,CUST138,Beauty,UPI,973.17,30,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,Normal Order,681.22,Standard Order
+ORD1517,CUST346,Electronics,UPI,3674.77,15,4,7.0,3.0,No,Tier 2,3.0,Severe Delay,Normal Order,3123.55,Standard Order
+ORD1518,CUST125, Fashion ,UPI,450.51,50,2,7.0,5.0,No,Tier 2,5.0,Severe Delay,Normal Order,225.26,Standard Order
+ORD1519,CUST198,Electronics,DEBIT CARD,7120.77,50,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,High Value Order,3560.38,Loyal & Satisfied
+ORD1520,CUST149,Beauty,CREDIT CARD,4846.55,30,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,High Value Order,3392.58,Loyal & Satisfied
+ORD1521,CUST252,Electronics,CREDIT CARD,1223.83,15,7,7.0,5.0,No,Tier 3,0.0,On-Time,Normal Order,1040.26,Standard Order
+ORD1522,CUST251, Fashion ,CREDIT CARD,1278.38,20,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,1022.7,Standard Order
+ORD1523,CUST112,Books,UPI,1185.37,20,4,7.0,3.0,No,Tier 3,3.0,Severe Delay,Normal Order,948.3,Standard Order
+ORD1524,CUST159,Beauty,CREDIT CARD,1713.61,50,2,7.0,5.0,No,Tier 3,5.0,Severe Delay,Normal Order,856.8,Loyal & Satisfied
+ORD1525,CUST349,Fashion,UPI,342.66,5,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,325.53,Standard Order
+ORD1526,CUST234,Beauty,UPI,249.74,5,7,7.0,5.0,Yes,Tier 1,0.0,On-Time,Normal Order,237.25,Standard Order
+ORD1527,CUST156, Home ,UPI,289.15,0,7,7.0,4.0,Yes,Tier 2,0.0,On-Time,Normal Order,289.15,Standard Order
+ORD1529,CUST272,Home,CREDIT CARD,683.51,15,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,580.98,Standard Order
+ORD1530,CUST119,Fashion,UPI,1659.45,20,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1327.56,Loyal & Satisfied
+ORD1531,CUST164,Books,DEBIT CARD,7527.78,0,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,High Value Order,7527.78,Loyal & Satisfied
+ORD1532,CUST107,Beauty,UPI,932.43,30,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,652.7,Standard Order
+ORD1534,CUST243, Beauty ,UPI,1005.76,0,7,7.0,5.0,No,Tier 2,0.0,On-Time,Normal Order,1005.76,Standard Order
+ORD1535,CUST241,Fashion,DEBIT CARD,3018.64,0,5,7.0,2.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,3018.64,Standard Order
+ORD1536,CUST303,Beauty,UPI,3687.8,50,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,1843.9,Loyal & Satisfied
+ORD1537,CUST214,Electronics,COD,3347.7,20,6,7.0,5.0,No,Tier 3,1.0,Unknown Status,Normal Order,2678.16,Loyal & Satisfied
+ORD1538,CUST314,Fashion,CREDIT CARD,5696.12,0,7,7.0,5.0,No,Tier 1,0.0,On-Time,High Value Order,5696.12,Loyal & Satisfied
+ORD1539,CUST242,Beauty,UPI,241.86,5,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,229.77,Standard Order
+ORD1540,CUST191,Books,DEBIT CARD,2947.15,5,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2799.79,Loyal & Satisfied
+ORD1541,CUST197,Fashion,CREDIT CARD,2290.11,10,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,2061.1,Standard Order
+ORD1542,CUST165,Fashion,UPI,589.51,20,3,7.0,1.0,Yes,Tier 3,4.0,Severe Delay,Normal Order,471.61,Standard Order
+ORD1543,CUST131,Books,DEBIT CARD,4896.3,50,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,High Value Order,2448.15,Loyal & Satisfied
+ORD1544,CUST314,Home,UPI,440.57,30,6,7.0,1.0,No,Tier 2,1.0,Unknown Status,Normal Order,308.4,Standard Order
+ORD1545,CUST290,Electronics,CREDIT CARD,1907.04,10,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,1716.34,Loyal & Satisfied
+ORD1546,CUST185,Home,CREDIT CARD,582.13,5,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,553.02,Standard Order
+ORD1547,CUST150,Beauty,UPI,1046.82,50,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,523.41,Standard Order
+ORD1548,CUST252,Books,COD,2104.95,10,7,7.0,5.0,Yes,Tier 1,0.0,On-Time,Normal Order,1894.46,Standard Order
+ORD1549,CUST285,Home,CREDIT CARD,1442.85,20,2,7.0,3.0,No,Tier 3,5.0,Severe Delay,Normal Order,1154.28,Standard Order
+ORD1550,CUST162,Fashion,UPI,1036.62,50,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,518.31,Standard Order
+ORD1551,CUST289,Beauty,DEBIT CARD,792.54,20,7,7.0,1.0,No,Tier 2,0.0,On-Time,Normal Order,634.03,Standard Order
+ORD1552,CUST224,Beauty,CREDIT CARD,2945.68,0,2,7.0,4.0,Yes,Tier 2,5.0,Severe Delay,Normal Order,2945.68,Standard Order
+ORD1553,CUST249, Home ,DEBIT CARD,432.9,15,3,7.0,1.0,No,Tier 2,4.0,Severe Delay,Normal Order,367.96,Standard Order
+ORD1554,CUST157, Home ,CREDIT CARD,1043.45,0,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,1043.45,Standard Order
+ORD1555,CUST157,Books,UPI,3711.33,20,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,2969.06,Loyal & Satisfied
+ORD1556,CUST185,Electronics,UPI,3004.74,50,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,1502.37,Standard Order
+ORD1557,CUST148,Home,CREDIT CARD,968.59,5,3,7.0,3.0,No,Tier 2,4.0,Severe Delay,Normal Order,920.16,Standard Order
+ORD1558,CUST279,Home,UPI,2360.23,30,2,7.0,5.0,No,Tier 2,5.0,Severe Delay,Normal Order,1652.16,Loyal & Satisfied
+ORD1559,CUST269,Fashion,UPI,2798.77,5,6,7.0,3.0,No,Tier 2,1.0,Unknown Status,Normal Order,2658.83,Standard Order
+ORD1560,CUST169,Beauty,COD,3495.82,50,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,1747.91,Loyal & Satisfied
+ORD1561,CUST114, Electronics ,DEBIT CARD,1379.56,0,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,1379.56,Loyal & Satisfied
+ORD1562,CUST153,Fashion,DEBIT CARD,543.1,30,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,380.17,Standard Order
+ORD1563,CUST334,Books,CREDIT CARD,642.18,50,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,321.09,Standard Order
+ORD1564,CUST287,Books,CREDIT CARD,725.81,20,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,580.65,Standard Order
+ORD1565,CUST200,Home,CREDIT CARD,1551.37,5,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,1473.8,Loyal & Satisfied
+ORD1566,CUST324, Home ,UPI,250.04,20,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,200.03,Standard Order
+ORD1567,CUST107,Books,COD,1716.08,30,6,7.0,3.0,No,Tier 3,1.0,Unknown Status,Normal Order,1201.26,Standard Order
+ORD1568,CUST152,Home,UPI,879.67,30,5,7.0,1.0,No,Tier 1,2.0,Unknown Status,Normal Order,615.77,Standard Order
+ORD1569,CUST159,Electronics,CREDIT CARD,724.85,5,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,688.61,Standard Order
+ORD1570,CUST335,Home,UPI,3374.12,20,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,2699.3,Standard Order
+ORD1571,CUST207,Beauty,COD,1124.29,10,2,7.0,2.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,1011.86,Standard Order
+ORD1572,CUST104,Home,DEBIT CARD,349.82,20,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,279.86,Standard Order
+ORD1573,CUST202,Fashion,COD,2829.5,30,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,1980.65,Loyal & Satisfied
+ORD1574,CUST295,Electronics,CREDIT CARD,273.22,20,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,218.58,Standard Order
+ORD1575,CUST105,Fashion,CREDIT CARD,2146.05,50,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,1073.03,Loyal & Satisfied
+ORD1577,CUST323,Beauty,DEBIT CARD,852.19,10,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,766.97,Standard Order
+ORD1578,CUST215,Electronics,UPI,2812.64,15,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,2390.74,Standard Order
+ORD1579,CUST193, Electronics ,DEBIT CARD,1287.45,50,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,643.72,Standard Order
+ORD1580,CUST146,Electronics,COD,1133.46,0,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,1133.46,Standard Order
+ORD1581,CUST198,Electronics,DEBIT CARD,269.7,15,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,229.24,Standard Order
+ORD1582,CUST154,Electronics,DEBIT CARD,713.8,5,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,678.11,Standard Order
+ORD1583,CUST267,Beauty,UPI,4210.69,15,6,7.0,3.0,Yes,Tier 2,1.0,Unknown Status,Normal Order,3579.09,Standard Order
+ORD1584,CUST151,Home,UPI,945.94,50,4,7.0,4.0,Yes,Tier 1,3.0,Severe Delay,Normal Order,472.97,High Risk Transaction
+ORD1585,CUST243,Fashion,UPI,1386.8,20,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,1109.44,Standard Order
+ORD1586,CUST112,Electronics,COD,1339.0,50,3,7.0,2.0,No,Tier 2,4.0,Severe Delay,Normal Order,669.5,Standard Order
+ORD1587,CUST213,Home,COD,1538.98,15,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,1308.13,Loyal & Satisfied
+ORD1588,CUST223,Home,COD,294.94,30,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,206.46,Standard Order
+ORD1589,CUST205,Fashion,CREDIT CARD,874.54,0,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,874.54,Standard Order
+ORD1590,CUST257,Beauty,DEBIT CARD,2126.3,0,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2126.3,Loyal & Satisfied
+ORD1591,CUST246,Books,COD,535.77,15,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,455.4,Standard Order
+ORD1592,CUST244,Books,DEBIT CARD,541.44,0,2,7.0,2.0,No,Tier 1,5.0,Severe Delay,Normal Order,541.44,Standard Order
+ORD1593,CUST219,Home,COD,215.21,30,3,7.0,4.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,150.65,High Risk Transaction
+ORD1594,CUST162,Fashion,COD,1063.0,50,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,531.5,Standard Order
+ORD1595,CUST118,Books,UPI,3414.97,0,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,3414.97,Loyal & Satisfied
+ORD1596,CUST191,Home,UPI,279.94,15,6,7.0,5.0,Yes,Tier 1,1.0,Unknown Status,Normal Order,237.95,Standard Order
+ORD1597,CUST157,Beauty,CREDIT CARD,518.15,10,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,466.34,Standard Order
+ORD1598,CUST282,Books,UPI,756.78,10,4,7.0,2.0,No,Tier 2,3.0,Severe Delay,Normal Order,681.1,Standard Order
+ORD1599,CUST189,Home,DEBIT CARD,2173.61,5,4,7.0,3.0,No,Tier 3,3.0,Severe Delay,Normal Order,2064.93,Standard Order
+ORD1600,CUST328,Home,COD,1735.13,0,5,7.0,3.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,1735.13,Standard Order
+ORD1601,CUST317,Electronics,CREDIT CARD,1006.64,50,6,7.0,2.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,503.32,High Risk Transaction
+ORD1602,CUST216,Beauty,CREDIT CARD,2334.87,15,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,1984.64,Loyal & Satisfied
+ORD1603,CUST161,Electronics,DEBIT CARD,1610.99,0,7,7.0,3.0,Yes,Tier 1,0.0,On-Time,Normal Order,1610.99,Standard Order
+ORD1605,CUST226,Electronics,CREDIT CARD,2755.84,30,2,7.0,2.0,No,Tier 2,5.0,Severe Delay,Normal Order,1929.09,Standard Order
+ORD1606,CUST236,Electronics,CREDIT CARD,637.16,0,5,7.0,1.0,Yes,Tier 2,2.0,Unknown Status,Normal Order,637.16,Standard Order
+ORD1607,CUST239,Books,CREDIT CARD,675.03,0,7,7.0,2.0,No,Tier 2,0.0,On-Time,Normal Order,675.03,Standard Order
+ORD1608,CUST344,Home,CREDIT CARD,400.91,10,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,360.82,Standard Order
+ORD1609,CUST228,Beauty,UPI,816.39,30,7,7.0,4.0,Yes,Tier 1,0.0,On-Time,Normal Order,571.47,High Risk Transaction
+ORD1610,CUST157,Electronics,UPI,11739.26,15,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,High Value Order,9978.37,Loyal & Satisfied
+ORD1612,CUST100,Electronics,UPI,573.63,10,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,516.27,Standard Order
+ORD1613,CUST338,Fashion,DEBIT CARD,2356.27,5,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,2238.46,Loyal & Satisfied
+ORD1614,CUST133,Electronics,CREDIT CARD,1372.87,30,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,961.01,Standard Order
+ORD1615,CUST195,Books,CREDIT CARD,443.08,10,5,7.0,1.0,No,Tier 1,2.0,Unknown Status,Normal Order,398.77,Standard Order
+ORD1616,CUST225,Home,DEBIT CARD,918.72,10,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,826.85,Standard Order
+ORD1617,CUST217,Fashion,CREDIT CARD,1002.86,50,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,501.43,Standard Order
+ORD1618,CUST147,Electronics,UPI,2302.6,10,6,7.0,3.0,No,Tier 3,1.0,Unknown Status,Normal Order,2072.34,Standard Order
+ORD1619,CUST188,Beauty,UPI,231.33,50,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,115.66,Standard Order
+ORD1620,CUST331,Fashion,DEBIT CARD,670.05,0,2,7.0,5.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,670.05,Standard Order
+ORD1621,CUST336,Fashion,CREDIT CARD,1293.46,0,3,7.0,3.0,No,Tier 3,4.0,Severe Delay,Normal Order,1293.46,Standard Order
+ORD1622,CUST216,Electronics,UPI,669.7,5,3,7.0,3.0,No,Tier 3,4.0,Severe Delay,Normal Order,636.22,Standard Order
+ORD1623,CUST228,Fashion,DEBIT CARD,1685.04,20,3,7.0,5.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,1348.03,Standard Order
+ORD1624,CUST115,Beauty,CREDIT CARD,1186.29,20,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,949.03,Standard Order
+ORD1625,CUST288,Fashion,DEBIT CARD,873.44,20,7,7.0,4.0,Yes,Tier 2,0.0,On-Time,Normal Order,698.75,Standard Order
+ORD1627,CUST291, Electronics ,UPI,1700.16,30,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,1190.11,Standard Order
+ORD1628,CUST290,Home,CREDIT CARD,408.79,30,7,7.0,2.0,No,Tier 2,0.0,On-Time,Normal Order,286.15,Standard Order
+ORD1629,CUST168,Fashion,COD,1431.78,5,4,7.0,4.0,Yes,Tier 1,3.0,Severe Delay,Normal Order,1360.19,Standard Order
+ORD1630,CUST121,Home,UPI,2476.19,30,6,7.0,2.0,No,Tier 1,1.0,Unknown Status,Normal Order,1733.33,Standard Order
+ORD1631,CUST192,Beauty,UPI,2049.02,20,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,1639.22,Loyal & Satisfied
+ORD1633,CUST294,Books,DEBIT CARD,5586.0,10,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,High Value Order,5027.4,Loyal & Satisfied
+ORD1634,CUST175,Home,CREDIT CARD,1093.52,30,7,7.0,3.0,No,Tier 3,0.0,On-Time,Normal Order,765.46,Standard Order
+ORD1635,CUST253,Fashion,UPI,459.79,0,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,459.79,Standard Order
+ORD1636,CUST243,Home,CREDIT CARD,498.03,0,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,498.03,Standard Order
+ORD1637,CUST278,Fashion,COD,355.1,10,2,7.0,5.0,No,Tier 3,5.0,Severe Delay,Normal Order,319.59,Standard Order
+ORD1638,CUST328,Electronics,COD,2640.78,10,3,7.0,3.0,No,Tier 2,4.0,Severe Delay,Normal Order,2376.7,Standard Order
+ORD1639,CUST185,Home,DEBIT CARD,395.22,10,6,7.0,1.0,No,Tier 1,1.0,Unknown Status,Normal Order,355.7,Standard Order
+ORD1640,CUST284,Books,CREDIT CARD,400.51,0,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,400.51,Standard Order
+ORD1641,CUST128,Books,CREDIT CARD,3050.4,20,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,2440.32,Loyal & Satisfied
+ORD1642,CUST305,Beauty,DEBIT CARD,833.77,10,7,7.0,4.0,Yes,Tier 1,0.0,On-Time,Normal Order,750.39,Standard Order
+ORD1643,CUST319,Fashion,UPI,247.02,5,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,234.67,Standard Order
+ORD1644,CUST168,Home,CREDIT CARD,279.94,50,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,139.97,Standard Order
+ORD1645,CUST146,Beauty,DEBIT CARD,430.02,10,7,7.0,3.0,Yes,Tier 2,0.0,On-Time,Normal Order,387.02,Standard Order
+ORD1646,CUST340,Home,UPI,560.04,50,6,7.0,4.0,Yes,Tier 2,1.0,Unknown Status,Normal Order,280.02,High Risk Transaction
+ORD1647,CUST193,Fashion,DEBIT CARD,1841.09,15,5,7.0,2.0,No,Tier 2,2.0,Unknown Status,Normal Order,1564.93,Standard Order
+ORD1648,CUST337,Books,DEBIT CARD,456.76,10,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,411.08,Standard Order
+ORD1649,CUST289,Electronics,UPI,389.83,0,2,7.0,4.0,Yes,Tier 3,5.0,Severe Delay,Normal Order,389.83,Standard Order
+ORD1650,CUST343,Books,CREDIT CARD,2370.46,30,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,1659.32,Loyal & Satisfied
+ORD1651,CUST296,Beauty,UPI,1867.8,10,7,7.0,5.0,No,Tier 1,0.0,On-Time,Normal Order,1681.02,Loyal & Satisfied
+ORD1652,CUST303,Electronics,UPI,1057.26,30,6,7.0,3.0,No,Tier 2,1.0,Unknown Status,Normal Order,740.08,Standard Order
+ORD1653,CUST243,Beauty,CREDIT CARD,1395.46,15,3,7.0,1.0,No,Tier 1,4.0,Severe Delay,Normal Order,1186.14,Standard Order
+ORD1654,CUST317,Fashion,DEBIT CARD,760.91,5,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,722.86,Standard Order
+ORD1655,CUST317,Electronics,UPI,1188.12,30,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,831.68,Standard Order
+ORD1656,CUST275,Beauty,UPI,1259.87,50,5,7.0,3.0,No,Tier 3,2.0,Unknown Status,Normal Order,629.93,Standard Order
+ORD1657,CUST184,Fashion,DEBIT CARD,934.67,20,7,7.0,1.0,No,Tier 2,0.0,On-Time,Normal Order,747.74,Standard Order
+ORD1658,CUST138,Books,UPI,3755.85,10,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,3380.26,Loyal & Satisfied
+ORD1659,CUST199,Fashion,COD,224.29,15,4,7.0,2.0,No,Tier 1,3.0,Severe Delay,Normal Order,190.65,Standard Order
+ORD1660,CUST132,Home,CREDIT CARD,2486.07,15,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2113.16,Loyal & Satisfied
+ORD1661,CUST321,Fashion,COD,399.24,30,3,7.0,5.0,Yes,Tier 3,4.0,Severe Delay,Normal Order,279.47,High Risk Transaction
+ORD1662,CUST200,Fashion,CREDIT CARD,2595.87,5,5,7.0,3.0,Yes,Tier 2,2.0,Unknown Status,Normal Order,2466.08,Standard Order
+ORD1663,CUST122,Home,UPI,1635.33,0,7,7.0,2.0,No,Tier 3,0.0,On-Time,Normal Order,1635.33,Standard Order
+ORD1664,CUST349,Beauty,UPI,2979.92,10,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,2681.93,Loyal & Satisfied
+ORD1665,CUST109,Beauty,UPI,353.9,15,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,300.82,Standard Order
+ORD1666,CUST345, Fashion ,UPI,1428.0,5,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,1356.6,Loyal & Satisfied
+ORD1667,CUST168,Home,UPI,1242.99,20,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,994.39,Standard Order
+ORD1668,CUST199,Home,DEBIT CARD,2037.25,15,4,7.0,2.0,Yes,Tier 1,3.0,Severe Delay,Normal Order,1731.66,Standard Order
+ORD1669,CUST133,Books,DEBIT CARD,1346.29,5,3,7.0,5.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,1278.98,Standard Order
+ORD1670,CUST279,Beauty,CREDIT CARD,1367.19,0,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,1367.19,Loyal & Satisfied
+ORD1671,CUST322,Electronics,UPI,1042.12,0,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,1042.12,Standard Order
+ORD1672,CUST237,Beauty,UPI,754.06,15,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,640.95,Standard Order
+ORD1673,CUST349,Beauty,COD,1187.44,50,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,593.72,Standard Order
+ORD1674,CUST246,Books,CREDIT CARD,389.18,15,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,330.8,Standard Order
+ORD1675,CUST285,Electronics,CREDIT CARD,5086.17,30,2,7.0,2.0,No,Tier 3,5.0,Severe Delay,High Value Order,3560.32,Standard Order
+ORD1676,CUST195,Books,CREDIT CARD,2079.8,10,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,1871.82,Loyal & Satisfied
+ORD1677,CUST100,Electronics,CREDIT CARD,4769.5,5,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,High Value Order,4531.02,Loyal & Satisfied
+ORD1678,CUST347,Fashion,UPI,585.69,15,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,497.84,Standard Order
+ORD1679,CUST168,Electronics,UPI,3372.18,10,3,7.0,5.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,3034.96,Standard Order
+ORD1680,CUST336,Books,UPI,2681.57,30,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,1877.1,High Risk Transaction
+ORD1681,CUST103,Beauty,CREDIT CARD,1895.86,10,7,7.0,3.0,Yes,Tier 2,0.0,On-Time,Normal Order,1706.27,Standard Order
+ORD1683,CUST123,Electronics,CREDIT CARD,770.9,0,2,7.0,1.0,No,Tier 2,5.0,Severe Delay,Normal Order,770.9,Standard Order
+ORD1684,CUST179,Home,CREDIT CARD,2742.58,5,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,2605.45,Standard Order
+ORD1686,CUST101,Fashion,CREDIT CARD,310.29,0,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,310.29,Standard Order
+ORD1687,CUST340,Books,COD,762.83,50,7,7.0,5.0,No,Tier 2,0.0,On-Time,Normal Order,381.42,Standard Order
+ORD1688,CUST319,Fashion,UPI,4306.92,15,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,3660.88,Standard Order
+ORD1690,CUST259,Electronics,UPI,6218.24,15,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,High Value Order,5285.5,Loyal & Satisfied
+ORD1691,CUST318,Electronics,COD,1683.27,30,2,7.0,2.0,No,Tier 2,5.0,Severe Delay,Normal Order,1178.29,Standard Order
+ORD1693,CUST251,Electronics,CREDIT CARD,466.57,10,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,419.91,Standard Order
+ORD1694,CUST239,Electronics,COD,510.38,0,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,510.38,Standard Order
+ORD1695,CUST277,Electronics,CREDIT CARD,229.99,50,7,7.0,5.0,Yes,Tier 3,0.0,On-Time,Normal Order,115.0,High Risk Transaction
+ORD1697,CUST223,Books,UPI,518.73,50,6,7.0,2.0,Yes,Tier 1,1.0,Unknown Status,Normal Order,259.36,High Risk Transaction
+ORD1698,CUST132,Home,UPI,995.66,50,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,497.83,Standard Order
+ORD1699,CUST260,Fashion,UPI,4299.92,30,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,3009.94,Standard Order
+ORD1700,CUST288,Beauty,COD,1044.6,20,4,7.0,1.0,No,Tier 1,3.0,Severe Delay,Normal Order,835.68,Standard Order
+ORD1701,CUST278,Beauty,CREDIT CARD,3355.41,0,3,7.0,4.0,No,Tier 3,4.0,Severe Delay,Normal Order,3355.41,Loyal & Satisfied
+ORD1702,CUST270,Beauty,CREDIT CARD,1595.22,50,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,797.61,Loyal & Satisfied
+ORD1704,CUST111, Books ,UPI,859.75,10,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,Normal Order,773.78,Standard Order
+ORD1705,CUST166,Home,CREDIT CARD,331.48,5,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,314.91,Standard Order
+ORD1706,CUST164,Beauty,COD,808.49,30,4,7.0,5.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,565.94,High Risk Transaction
+ORD1707,CUST260,Fashion,UPI,1897.67,30,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,1328.37,Loyal & Satisfied
+ORD1709,CUST173,Books,COD,544.88,0,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,544.88,Standard Order
+ORD1711,CUST143,Home,UPI,6230.21,15,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,High Value Order,5295.68,Loyal & Satisfied
+ORD1712,CUST128,Books,UPI,2504.71,5,7,7.0,1.0,No,Tier 1,0.0,On-Time,Normal Order,2379.47,Standard Order
+ORD1713,CUST240,Beauty,CREDIT CARD,2183.5,10,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1965.15,Loyal & Satisfied
+ORD1715,CUST194,Home,CREDIT CARD,2478.0,20,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,1982.4,Loyal & Satisfied
+ORD1716,CUST145,Beauty,UPI,2507.55,10,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,2256.8,Loyal & Satisfied
+ORD1717,CUST229,Fashion,UPI,1578.58,5,4,7.0,3.0,No,Tier 1,3.0,Severe Delay,Normal Order,1499.65,Standard Order
+ORD1718,CUST342, Home ,UPI,7163.03,10,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,High Value Order,6446.73,Loyal & Satisfied
+ORD1720,CUST134,Electronics,CREDIT CARD,4452.27,50,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,2226.14,Loyal & Satisfied
+ORD1721,CUST314,Fashion,CREDIT CARD,3892.92,10,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,3503.63,Standard Order
+ORD1722,CUST180,Electronics,DEBIT CARD,217.32,15,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,184.72,Standard Order
+ORD1723,CUST189,Electronics,UPI,1097.07,0,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,1097.07,Standard Order
+ORD1724,CUST107,Fashion,CREDIT CARD,5865.2,20,4,7.0,4.0,Yes,Tier 1,3.0,Severe Delay,High Value Order,4692.16,Standard Order
+ORD1725,CUST192,Home,DEBIT CARD,363.25,15,6,7.0,1.0,No,Tier 2,1.0,Unknown Status,Normal Order,308.76,Standard Order
+ORD1726,CUST253,Beauty,UPI,1390.4,5,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,1320.88,Loyal & Satisfied
+ORD1727,CUST301,Beauty,UPI,5991.82,50,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,High Value Order,2995.91,Loyal & Satisfied
+ORD1728,CUST189,Electronics,CREDIT CARD,1416.19,5,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,1345.38,Loyal & Satisfied
+ORD1729,CUST261,Electronics,UPI,515.74,50,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,257.87,Standard Order
+ORD1730,CUST214,Home,UPI,1509.07,50,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,754.54,Loyal & Satisfied
+ORD1731,CUST204,Books,COD,543.06,5,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,515.91,Standard Order
+ORD1732,CUST234,Fashion,UPI,1300.03,15,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,1105.03,Standard Order
+ORD1733,CUST295,Electronics,DEBIT CARD,315.39,15,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,268.08,Standard Order
+ORD1734,CUST157,Beauty,CREDIT CARD,1595.14,50,7,7.0,3.0,No,Tier 1,0.0,On-Time,Normal Order,797.57,Standard Order
+ORD1735,CUST344,Home,COD,1290.96,15,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,1097.32,Standard Order
+ORD1736,CUST213,Fashion,UPI,2221.54,50,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,1110.77,Standard Order
+ORD1737,CUST336,Home,CREDIT CARD,1694.22,50,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,847.11,Loyal & Satisfied
+ORD1738,CUST174, Fashion ,DEBIT CARD,1396.45,0,2,7.0,4.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,1396.45,Standard Order
+ORD1739,CUST256,Fashion,CREDIT CARD,1955.7,30,6,7.0,3.0,No,Tier 2,1.0,Unknown Status,Normal Order,1368.99,Standard Order
+ORD1740,CUST219,Electronics,CREDIT CARD,433.13,0,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,433.13,Standard Order
+ORD1741,CUST263,Home,COD,1557.13,5,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,1479.27,Loyal & Satisfied
+ORD1742,CUST316, Home ,UPI,483.31,30,3,7.0,2.0,No,Tier 1,4.0,Severe Delay,Normal Order,338.32,Standard Order
+ORD1745,CUST263,Electronics,COD,1044.16,20,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,835.33,Standard Order
+ORD1747,CUST200,Books,UPI,1118.8,15,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,950.98,Standard Order
+ORD1748,CUST300,Beauty,UPI,344.92,0,5,7.0,2.0,No,Tier 1,2.0,Unknown Status,Normal Order,344.92,Standard Order
+ORD1749,CUST251,Fashion,COD,1409.07,15,2,7.0,5.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,1197.71,Standard Order
+ORD1750,CUST291, Home ,UPI,1739.29,30,2,7.0,2.0,Yes,Tier 2,5.0,Severe Delay,Normal Order,1217.5,High Risk Transaction
+ORD1751,CUST326,Electronics,UPI,2025.04,20,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,1620.03,Standard Order
+ORD1753,CUST198,Home,UPI,1444.0,20,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,1155.2,Loyal & Satisfied
+ORD1754,CUST339,Books,COD,1098.63,0,7,7.0,4.0,Yes,Tier 2,0.0,On-Time,Normal Order,1098.63,Standard Order
+ORD1755,CUST135,Beauty,COD,1872.37,15,2,7.0,3.0,No,Tier 2,5.0,Severe Delay,Normal Order,1591.51,Standard Order
+ORD1756,CUST309,Electronics,CREDIT CARD,1514.01,30,5,7.0,3.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,1059.81,High Risk Transaction
+ORD1757,CUST340,Home,CREDIT CARD,1319.05,20,2,7.0,5.0,No,Tier 3,5.0,Severe Delay,Normal Order,1055.24,Standard Order
+ORD1758,CUST330,Electronics,DEBIT CARD,630.57,50,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,315.29,Standard Order
+ORD1759,CUST195,Fashion,CREDIT CARD,203.03,5,7,7.0,1.0,No,Tier 2,0.0,On-Time,Normal Order,192.88,Standard Order
+ORD1760,CUST251,Books,CREDIT CARD,486.89,5,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,462.55,Standard Order
+ORD1762,CUST289, Electronics ,UPI,1094.26,15,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,930.12,Standard Order
+ORD1763,CUST323,Electronics,COD,1621.12,50,3,7.0,2.0,No,Tier 2,4.0,Severe Delay,Normal Order,810.56,Standard Order
+ORD1764,CUST136,Beauty,UPI,559.45,30,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,391.62,Standard Order
+ORD1765,CUST111, Home ,UPI,4396.73,0,6,7.0,3.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,4396.73,Standard Order
+ORD1766,CUST212,Home,CREDIT CARD,210.06,20,4,7.0,5.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,168.05,Standard Order
+ORD1767,CUST282, Fashion ,UPI,2419.6,0,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,2419.6,Loyal & Satisfied
+ORD1768,CUST112,Books,CREDIT CARD,1672.06,5,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,1588.46,Loyal & Satisfied
+ORD1769,CUST122,Home,UPI,901.54,20,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,721.23,Standard Order
+ORD1770,CUST316,Beauty,COD,277.71,30,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,194.4,Standard Order
+ORD1771,CUST198,Fashion,UPI,1681.22,0,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,1681.22,Loyal & Satisfied
+ORD1772,CUST204,Fashion,UPI,930.7,10,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,837.63,Standard Order
+ORD1773,CUST129,Beauty,UPI,4329.58,15,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,3680.14,Standard Order
+ORD1774,CUST116,Books,CREDIT CARD,1371.3,50,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,685.65,Loyal & Satisfied
+ORD1775,CUST212,Beauty,UPI,4411.43,50,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,2205.72,Loyal & Satisfied
+ORD1776,CUST161, Books ,CREDIT CARD,573.62,15,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,487.58,Standard Order
+ORD1777,CUST183,Beauty,CREDIT CARD,2140.44,10,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,1926.4,Loyal & Satisfied
+ORD1778,CUST211,Beauty,CREDIT CARD,1640.56,5,5,7.0,2.0,No,Tier 1,2.0,Unknown Status,Normal Order,1558.53,Standard Order
+ORD1779,CUST316,Electronics,UPI,2217.2,20,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,1773.76,Loyal & Satisfied
+ORD1780,CUST185,Fashion,COD,562.47,15,5,7.0,5.0,Yes,Tier 2,2.0,Unknown Status,Normal Order,478.1,Standard Order
+ORD1781,CUST240,Beauty,CREDIT CARD,1840.41,10,7,7.0,4.0,Yes,Tier 2,0.0,On-Time,Normal Order,1656.37,Standard Order
+ORD1783,CUST118,Home,DEBIT CARD,2237.0,50,3,7.0,2.0,No,Tier 2,4.0,Severe Delay,Normal Order,1118.5,Standard Order
+ORD1784,CUST276,Fashion,CREDIT CARD,794.11,10,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,714.7,Standard Order
+ORD1785,CUST199,Home,COD,3511.69,5,3,7.0,1.0,No,Tier 2,4.0,Severe Delay,Normal Order,3336.11,Standard Order
+ORD1786,CUST239,Fashion,UPI,332.1,5,7,7.0,5.0,No,Tier 1,0.0,On-Time,Normal Order,315.5,Standard Order
+ORD1787,CUST288, Home ,UPI,2669.07,0,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,2669.07,Loyal & Satisfied
+ORD1788,CUST332,Beauty,UPI,3163.38,15,6,7.0,4.0,Yes,Tier 2,1.0,Unknown Status,Normal Order,2688.87,Standard Order
+ORD1789,CUST246,Beauty,CREDIT CARD,2749.47,0,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,2749.47,Loyal & Satisfied
+ORD1790,CUST175, Electronics ,DEBIT CARD,1278.39,50,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,639.2,Standard Order
+ORD1791,CUST108,Home,UPI,1065.41,10,2,7.0,4.0,Yes,Tier 3,5.0,Severe Delay,Normal Order,958.87,Standard Order
+ORD1792,CUST298,Books,COD,8583.92,20,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,High Value Order,6867.14,Loyal & Satisfied
+ORD1793,CUST127,Electronics,CREDIT CARD,590.43,20,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,472.34,Standard Order
+ORD1794,CUST305,Home,UPI,1387.38,5,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,1318.01,Standard Order
+ORD1795,CUST322,Home,UPI,1866.07,20,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,1492.86,Loyal & Satisfied
+ORD1796,CUST227, Electronics ,CREDIT CARD,2010.3,20,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,1608.24,Loyal & Satisfied
+ORD1797,CUST151,Beauty,UPI,542.28,50,3,7.0,1.0,No,Tier 2,4.0,Severe Delay,Normal Order,271.14,Standard Order
+ORD1798,CUST182,Home,DEBIT CARD,1791.95,20,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,1433.56,Loyal & Satisfied
+ORD1800,CUST210,Electronics,UPI,276.97,20,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,221.58,Standard Order
+ORD1801,CUST243, Beauty ,COD,3837.49,30,6,7.0,1.0,No,Tier 1,1.0,Unknown Status,Normal Order,2686.24,Standard Order
+ORD1802,CUST216,Fashion,UPI,244.92,20,3,7.0,4.0,Yes,Tier 3,4.0,Severe Delay,Normal Order,195.94,Standard Order
+ORD1803,CUST168,Books,COD,860.02,20,2,7.0,3.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,688.02,Standard Order
+ORD1804,CUST198,Home,CREDIT CARD,223.91,0,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,223.91,Standard Order
+ORD1805,CUST239,Books,DEBIT CARD,320.43,10,4,7.0,4.0,Yes,Tier 1,3.0,Severe Delay,Normal Order,288.39,Standard Order
+ORD1806,CUST124,Beauty,UPI,3831.52,5,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,3639.94,Loyal & Satisfied
+ORD1807,CUST279,Home,UPI,857.43,0,6,7.0,5.0,No,Tier 3,1.0,Unknown Status,Normal Order,857.43,Standard Order
+ORD1808,CUST222,Beauty,UPI,1029.48,15,3,7.0,4.0,No,Tier 3,4.0,Severe Delay,Normal Order,875.06,Standard Order
+ORD1809,CUST312,Fashion,CREDIT CARD,563.77,10,7,7.0,1.0,No,Tier 1,0.0,On-Time,Normal Order,507.39,Standard Order
+ORD1810,CUST327,Electronics,DEBIT CARD,1563.58,30,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,1094.51,Standard Order
+ORD1811,CUST152,Home,UPI,1555.07,10,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,1399.56,Loyal & Satisfied
+ORD1812,CUST250,Fashion,UPI,898.3,15,6,7.0,4.0,Yes,Tier 1,1.0,Unknown Status,Normal Order,763.56,Standard Order
+ORD1814,CUST156, Home ,DEBIT CARD,3443.77,15,2,7.0,5.0,No,Tier 3,5.0,Severe Delay,Normal Order,2927.2,Loyal & Satisfied
+ORD1815,CUST138,Beauty,CREDIT CARD,925.02,50,2,7.0,3.0,No,Tier 3,5.0,Severe Delay,Normal Order,462.51,Standard Order
+ORD1816,CUST208,Fashion,DEBIT CARD,1220.35,5,4,7.0,3.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,1159.33,Standard Order
+ORD1819,CUST285,Beauty,COD,959.87,50,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,479.94,Standard Order
+ORD1820,CUST266,Beauty,CREDIT CARD,1281.12,20,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,1024.9,Standard Order
+ORD1821,CUST241,Books,UPI,638.25,20,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,510.6,Standard Order
+ORD1822,CUST322,Fashion,UPI,6792.31,30,5,7.0,5.0,Yes,Tier 2,2.0,Unknown Status,High Value Order,4754.62,High Risk Transaction
+ORD1823,CUST221, Beauty ,UPI,716.9,15,5,7.0,1.0,No,Tier 2,2.0,Unknown Status,Normal Order,609.36,Standard Order
+ORD1824,CUST232,Home,CREDIT CARD,2409.36,5,5,7.0,2.0,No,Tier 3,2.0,Unknown Status,Normal Order,2288.89,Standard Order
+ORD1825,CUST262,Electronics,UPI,1036.6,30,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,725.62,Standard Order
+ORD1826,CUST314,Electronics,CREDIT CARD,546.42,0,4,7.0,5.0,No,Tier 3,3.0,Severe Delay,Normal Order,546.42,Standard Order
+ORD1827,CUST320,Electronics,COD,2612.05,50,2,7.0,4.0,No,Tier 3,5.0,Severe Delay,Normal Order,1306.03,Loyal & Satisfied
+ORD1828,CUST334, Fashion ,UPI,808.81,50,4,7.0,3.0,No,Tier 1,3.0,Severe Delay,Normal Order,404.4,Standard Order
+ORD1830,CUST245,Beauty,DEBIT CARD,3902.2,20,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,3121.76,Loyal & Satisfied
+ORD1831,CUST338,Home,UPI,3147.28,50,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,1573.64,Standard Order
+ORD1832,CUST175,Home,CREDIT CARD,253.45,5,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,240.78,Standard Order
+ORD1833,CUST108,Fashion,COD,2522.33,50,7,7.0,1.0,No,Tier 3,0.0,On-Time,Normal Order,1261.16,Standard Order
+ORD1834,CUST173, Electronics ,COD,994.86,50,2,7.0,2.0,No,Tier 1,5.0,Severe Delay,Normal Order,497.43,Standard Order
+ORD1835,CUST285,Fashion,UPI,3303.92,15,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,2808.33,Loyal & Satisfied
+ORD1836,CUST335,Books,CREDIT CARD,1723.98,0,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,1723.98,Loyal & Satisfied
+ORD1837,CUST244,Books,CREDIT CARD,2890.43,15,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,2456.87,Loyal & Satisfied
+ORD1838,CUST329,Beauty,CREDIT CARD,1238.02,0,3,7.0,3.0,No,Tier 3,4.0,Severe Delay,Normal Order,1238.02,Standard Order
+ORD1839,CUST106,Beauty,DEBIT CARD,1348.66,50,4,7.0,5.0,Yes,Tier 1,3.0,Severe Delay,Normal Order,674.33,High Risk Transaction
+ORD1840,CUST273,Books,UPI,433.91,30,7,7.0,3.0,Yes,Tier 1,0.0,On-Time,Normal Order,303.74,High Risk Transaction
+ORD1841,CUST240,Books,UPI,2498.63,20,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,1998.9,Loyal & Satisfied
+ORD1842,CUST267,Books,DEBIT CARD,1015.51,50,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,507.76,Standard Order
+ORD1843,CUST269,Fashion,CREDIT CARD,1239.96,0,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,1239.96,Standard Order
+ORD1844,CUST236,Books,DEBIT CARD,2506.36,0,7,7.0,4.0,No,Tier 3,0.0,On-Time,Normal Order,2506.36,Loyal & Satisfied
+ORD1845,CUST277,Home,UPI,1570.11,0,7,7.0,3.0,Yes,Tier 1,0.0,On-Time,Normal Order,1570.11,Standard Order
+ORD1846,CUST126,Electronics,UPI,536.78,50,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,268.39,Standard Order
+ORD1847,CUST221,Books,DEBIT CARD,1538.25,5,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,1461.34,Loyal & Satisfied
+ORD1848,CUST293,Electronics,COD,985.44,30,5,7.0,4.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,689.81,High Risk Transaction
+ORD1849,CUST104,Fashion,COD,1150.98,5,6,7.0,3.0,No,Tier 3,1.0,Unknown Status,Normal Order,1093.43,Standard Order
+ORD1850,CUST128,Electronics,CREDIT CARD,243.08,20,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,194.46,Standard Order
+ORD1851,CUST264,Fashion,CREDIT CARD,553.64,50,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,276.82,Standard Order
+ORD1852,CUST265,Home,DEBIT CARD,694.92,0,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,694.92,Standard Order
+ORD1853,CUST182,Fashion,CREDIT CARD,2072.2,30,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,1450.54,Loyal & Satisfied
+ORD1854,CUST235,Fashion,UPI,217.34,30,3,7.0,3.0,No,Tier 2,4.0,Severe Delay,Normal Order,152.14,Standard Order
+ORD1855,CUST339,Beauty,CREDIT CARD,988.34,10,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,889.51,Standard Order
+ORD1856,CUST208,Books,DEBIT CARD,4066.06,20,2,7.0,1.0,Yes,Tier 3,5.0,Severe Delay,Normal Order,3252.85,Standard Order
+ORD1859,CUST343,Home,UPI,2516.33,0,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,2516.33,Loyal & Satisfied
+ORD1860,CUST244, Books ,CREDIT CARD,4484.77,0,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,4484.77,Loyal & Satisfied
+ORD1861,CUST170,Beauty,CREDIT CARD,2260.22,30,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,1582.15,Loyal & Satisfied
+ORD1862,CUST316,Books,UPI,2112.48,5,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,2006.86,Loyal & Satisfied
+ORD1863,CUST144,Beauty,COD,2827.26,20,7,7.0,5.0,Yes,Tier 2,0.0,On-Time,Normal Order,2261.81,Standard Order
+ORD1864,CUST231,Home,CREDIT CARD,1086.43,0,6,7.0,5.0,No,Tier 3,1.0,Unknown Status,Normal Order,1086.43,Standard Order
+ORD1865,CUST135, Electronics ,UPI,2658.64,30,4,7.0,2.0,No,Tier 2,3.0,Severe Delay,Normal Order,1861.05,Standard Order
+ORD1866,CUST169,Home,CREDIT CARD,211.99,0,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,211.99,Standard Order
+ORD1867,CUST258,Home,COD,4076.65,30,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,2853.66,Standard Order
+ORD1868,CUST118,Fashion,UPI,1078.61,20,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,Normal Order,862.89,Standard Order
+ORD1869,CUST288,Fashion,COD,1409.07,30,2,7.0,5.0,No,Tier 2,5.0,Severe Delay,Normal Order,986.35,Loyal & Satisfied
+ORD1870,CUST207,Fashion,UPI,641.32,10,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,577.19,Standard Order
+ORD1871,CUST281,Fashion,CREDIT CARD,2235.28,30,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,1564.7,Loyal & Satisfied
+ORD1872,CUST266,Beauty,COD,319.6,30,5,7.0,3.0,No,Tier 3,2.0,Unknown Status,Normal Order,223.72,Standard Order
+ORD1873,CUST190,Books,CREDIT CARD,3291.06,50,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,1645.53,Loyal & Satisfied
+ORD1874,CUST301,Electronics,COD,2841.41,20,4,7.0,2.0,No,Tier 1,3.0,Severe Delay,Normal Order,2273.13,Standard Order
+ORD1875,CUST189,Home,DEBIT CARD,565.13,50,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,282.56,Standard Order
+ORD1876,CUST118,Beauty,COD,2685.77,30,3,7.0,5.0,No,Tier 3,4.0,Severe Delay,Normal Order,1880.04,Loyal & Satisfied
+ORD1877,CUST138,Electronics,CREDIT CARD,2515.18,20,3,7.0,4.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,2012.14,Standard Order
+ORD1878,CUST225,Beauty,CREDIT CARD,1700.39,10,5,7.0,3.0,No,Tier 2,2.0,Unknown Status,Normal Order,1530.35,Standard Order
+ORD1879,CUST294,Beauty,UPI,901.46,20,4,7.0,1.0,No,Tier 1,3.0,Severe Delay,Normal Order,721.17,Standard Order
+ORD1880,CUST272,Home,UPI,675.15,0,7,7.0,2.0,Yes,Tier 2,0.0,On-Time,Normal Order,675.15,Standard Order
+ORD1881,CUST240,Books,CREDIT CARD,595.53,50,4,7.0,4.0,Yes,Tier 3,3.0,Severe Delay,Normal Order,297.76,High Risk Transaction
+ORD1882,CUST341,Fashion,UPI,775.43,20,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,620.34,Standard Order
+ORD1883,CUST319,Books,CREDIT CARD,3708.23,10,6,7.0,3.0,No,Tier 2,1.0,Unknown Status,Normal Order,3337.41,Standard Order
+ORD1884,CUST225, Home ,UPI,321.23,15,6,7.0,5.0,Yes,Tier 1,1.0,Unknown Status,Normal Order,273.05,Standard Order
+ORD1885,CUST157,Home,COD,2848.01,30,2,7.0,5.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,1993.61,High Risk Transaction
+ORD1887,CUST319,Electronics,CREDIT CARD,1305.96,30,3,7.0,5.0,Yes,Tier 1,4.0,Severe Delay,Normal Order,914.17,High Risk Transaction
+ORD1888,CUST299,Books,UPI,2573.36,5,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,2444.69,Loyal & Satisfied
+ORD1889,CUST160,Books,CREDIT CARD,3436.12,0,6,7.0,3.0,No,Tier 1,1.0,Unknown Status,Normal Order,3436.12,Standard Order
+ORD1890,CUST226,Beauty,UPI,834.18,50,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,417.09,Standard Order
+ORD1891,CUST204,Beauty,CREDIT CARD,1129.41,0,5,7.0,1.0,No,Tier 1,2.0,Unknown Status,Normal Order,1129.41,Standard Order
+ORD1892,CUST266,Beauty,DEBIT CARD,1002.97,5,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,Normal Order,952.82,Standard Order
+ORD1893,CUST100,Home,UPI,220.01,5,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,209.01,Standard Order
+ORD1894,CUST230,Books,COD,726.34,50,6,7.0,5.0,No,Tier 2,1.0,Unknown Status,Normal Order,363.17,Standard Order
+ORD1895,CUST304,Home,DEBIT CARD,1122.03,20,5,7.0,2.0,Yes,Tier 1,2.0,Unknown Status,Normal Order,897.62,Standard Order
+ORD1896,CUST191,Electronics,COD,994.23,5,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,944.52,Standard Order
+ORD1897,CUST289,Beauty,UPI,2119.82,15,5,7.0,2.0,No,Tier 2,2.0,Unknown Status,Normal Order,1801.85,Standard Order
+ORD1898,CUST348,Home,DEBIT CARD,928.72,30,2,7.0,1.0,Yes,Tier 3,5.0,Severe Delay,Normal Order,650.1,High Risk Transaction
+ORD1900,CUST212,Electronics,DEBIT CARD,1042.15,10,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,937.94,Standard Order
+ORD1903,CUST260,Fashion,UPI,1338.58,15,2,7.0,2.0,No,Tier 3,5.0,Severe Delay,Normal Order,1137.79,Standard Order
+ORD1904,CUST265,Beauty,CREDIT CARD,2536.92,0,7,7.0,3.0,No,Tier 3,0.0,On-Time,Normal Order,2536.92,Standard Order
+ORD1905,CUST216,Home,CREDIT CARD,728.14,0,4,7.0,4.0,No,Tier 2,3.0,Severe Delay,Normal Order,728.14,Standard Order
+ORD1906,CUST233,Electronics,CREDIT CARD,1369.27,30,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,958.49,Loyal & Satisfied
+ORD1907,CUST157,Electronics,CREDIT CARD,835.21,30,6,7.0,5.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,584.65,High Risk Transaction
+ORD1908,CUST143,Books,CREDIT CARD,1002.17,20,7,7.0,4.0,No,Tier 2,0.0,On-Time,Normal Order,801.74,Standard Order
+ORD1909,CUST272,Fashion,UPI,2177.47,50,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,1088.73,Loyal & Satisfied
+ORD1910,CUST259,Books,CREDIT CARD,3401.32,15,6,7.0,1.0,No,Tier 2,1.0,Unknown Status,Normal Order,2891.12,Standard Order
+ORD1913,CUST146,Electronics,CREDIT CARD,1508.93,10,3,7.0,2.0,No,Tier 1,4.0,Severe Delay,Normal Order,1358.04,Standard Order
+ORD1914,CUST248,Electronics,DEBIT CARD,389.05,50,4,7.0,4.0,Yes,Tier 2,3.0,Severe Delay,Normal Order,194.52,High Risk Transaction
+ORD1915,CUST179, Beauty ,UPI,557.18,10,6,7.0,5.0,No,Tier 3,1.0,Unknown Status,Normal Order,501.46,Standard Order
+ORD1916,CUST217,Beauty,CREDIT CARD,758.78,50,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,379.39,Standard Order
+ORD1917,CUST312,Home,COD,473.96,15,2,7.0,2.0,No,Tier 2,5.0,Severe Delay,Normal Order,402.87,Standard Order
+ORD1918,CUST302,Fashion,COD,619.03,10,4,7.0,3.0,Yes,Tier 2,3.0,Severe Delay,Normal Order,557.13,Standard Order
+ORD1919,CUST328, Books ,UPI,667.14,0,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,667.14,Standard Order
+ORD1920,CUST263,Home,UPI,813.47,10,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,732.12,Standard Order
+ORD1922,CUST246,Books,DEBIT CARD,1472.64,15,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,1251.74,Loyal & Satisfied
+ORD1923,CUST119, Beauty ,UPI,6629.71,15,6,7.0,4.0,No,Tier 2,1.0,Unknown Status,High Value Order,5635.25,Loyal & Satisfied
+ORD1924,CUST284,Books,COD,1003.54,10,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,903.19,Standard Order
+ORD1925,CUST245, Fashion ,CREDIT CARD,2302.81,5,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,2187.67,Loyal & Satisfied
+ORD1926,CUST146,Home,UPI,3277.37,15,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,2785.76,Loyal & Satisfied
+ORD1927,CUST332,Books,CREDIT CARD,1904.37,20,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1523.5,Loyal & Satisfied
+ORD1928,CUST148,Electronics,COD,996.2,20,2,7.0,2.0,No,Tier 1,5.0,Severe Delay,Normal Order,796.96,Standard Order
+ORD1929,CUST113,Electronics,UPI,2301.17,0,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,2301.17,Loyal & Satisfied
+ORD1930,CUST242,Books,DEBIT CARD,541.61,50,2,7.0,4.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,270.8,High Risk Transaction
+ORD1931,CUST258,Books,CREDIT CARD,795.25,10,5,7.0,4.0,No,Tier 1,2.0,Unknown Status,Normal Order,715.72,Standard Order
+ORD1932,CUST100,Books,CREDIT CARD,1386.75,5,7,7.0,5.0,No,Tier 1,0.0,On-Time,Normal Order,1317.41,Loyal & Satisfied
+ORD1933,CUST216,Electronics,UPI,1484.94,0,4,7.0,4.0,No,Tier 3,3.0,Severe Delay,Normal Order,1484.94,Loyal & Satisfied
+ORD1934,CUST153,Electronics,DEBIT CARD,233.59,10,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,210.23,Standard Order
+ORD1935,CUST217,Books,UPI,4553.75,15,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,High Value Order,3870.69,Loyal & Satisfied
+ORD1936,CUST102,Beauty,CREDIT CARD,1989.19,20,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,1591.35,Loyal & Satisfied
+ORD1937,CUST243,Beauty,COD,1226.89,30,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,858.82,Standard Order
+ORD1938,CUST314,Fashion,CREDIT CARD,4257.45,5,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,4044.58,Loyal & Satisfied
+ORD1939,CUST284,Home,UPI,1067.31,30,4,7.0,5.0,No,Tier 1,3.0,Severe Delay,Normal Order,747.12,Standard Order
+ORD1940,CUST302,Beauty,CREDIT CARD,6101.06,20,2,7.0,2.0,Yes,Tier 1,5.0,Severe Delay,High Value Order,4880.85,Standard Order
+ORD1941,CUST111,Electronics,DEBIT CARD,1277.04,50,7,7.0,5.0,Yes,Tier 2,0.0,On-Time,Normal Order,638.52,High Risk Transaction
+ORD1942,CUST173,Beauty,CREDIT CARD,382.04,50,4,7.0,3.0,No,Tier 1,3.0,Severe Delay,Normal Order,191.02,Standard Order
+ORD1943,CUST323,Fashion,UPI,2370.98,30,2,7.0,4.0,No,Tier 1,5.0,Severe Delay,Normal Order,1659.69,Loyal & Satisfied
+ORD1944,CUST115,Fashion,UPI,1903.99,15,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,1618.39,Standard Order
+ORD1946,CUST201,Beauty,UPI,4737.5,15,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,High Value Order,4026.88,Loyal & Satisfied
+ORD1947,CUST303,Electronics,CREDIT CARD,2447.44,30,2,7.0,3.0,No,Tier 2,5.0,Severe Delay,Normal Order,1713.21,Standard Order
+ORD1948,CUST251,Electronics,CREDIT CARD,1617.56,15,3,7.0,2.0,No,Tier 3,4.0,Severe Delay,Normal Order,1374.93,Standard Order
+ORD1949,CUST255, Books ,UPI,3120.61,20,5,7.0,3.0,Yes,Tier 3,2.0,Unknown Status,Normal Order,2496.49,Standard Order
+ORD1950,CUST216,Electronics,UPI,1877.82,5,3,7.0,5.0,No,Tier 1,4.0,Severe Delay,Normal Order,1783.93,Loyal & Satisfied
+ORD1951,CUST107,Home,COD,986.67,15,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,838.67,Standard Order
+ORD1952,CUST221,Home,DEBIT CARD,3452.34,20,2,7.0,3.0,No,Tier 2,5.0,Severe Delay,Normal Order,2761.87,Standard Order
+ORD1953,CUST191,Electronics,DEBIT CARD,576.35,5,6,7.0,3.0,No,Tier 3,1.0,Unknown Status,Normal Order,547.53,Standard Order
+ORD1954,CUST263,Electronics,CREDIT CARD,2081.01,50,6,7.0,4.0,Yes,Tier 1,1.0,Unknown Status,Normal Order,1040.51,High Risk Transaction
+ORD1955,CUST189,Books,CREDIT CARD,3400.07,10,7,7.0,3.0,No,Tier 2,0.0,On-Time,Normal Order,3060.06,Standard Order
+ORD1956,CUST235,Electronics,COD,2171.33,30,6,7.0,5.0,No,Tier 1,1.0,Unknown Status,Normal Order,1519.93,Loyal & Satisfied
+ORD1957,CUST285,Books,UPI,1992.4,50,3,7.0,2.0,No,Tier 3,4.0,Severe Delay,Normal Order,996.2,Standard Order
+ORD1958,CUST159,Books,CREDIT CARD,2295.36,10,7,7.0,5.0,Yes,Tier 1,0.0,On-Time,Normal Order,2065.82,Standard Order
+ORD1959,CUST277,Electronics,CREDIT CARD,1138.39,50,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,569.2,Standard Order
+ORD1960,CUST127,Fashion,UPI,3309.24,0,4,7.0,4.0,No,Tier 1,3.0,Severe Delay,Normal Order,3309.24,Loyal & Satisfied
+ORD1961,CUST319,Fashion,UPI,541.17,50,3,7.0,3.0,No,Tier 1,4.0,Severe Delay,Normal Order,270.58,Standard Order
+ORD1962,CUST200,Books,CREDIT CARD,404.39,20,3,7.0,5.0,No,Tier 2,4.0,Severe Delay,Normal Order,323.51,Standard Order
+ORD1963,CUST140,Electronics,UPI,704.28,5,7,7.0,4.0,Yes,Tier 1,0.0,On-Time,Normal Order,669.07,Standard Order
+ORD1965,CUST291,Electronics,CREDIT CARD,1271.75,15,5,7.0,4.0,No,Tier 3,2.0,Unknown Status,Normal Order,1080.99,Standard Order
+ORD1966,CUST254,Electronics,CREDIT CARD,2777.2,10,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,Normal Order,2499.48,Loyal & Satisfied
+ORD1967,CUST345,Electronics,DEBIT CARD,977.7,50,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,488.85,Standard Order
+ORD1968,CUST290,Beauty,UPI,1193.47,5,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,1133.8,Standard Order
+ORD1971,CUST260,Books,UPI,1765.22,10,5,7.0,4.0,No,Tier 2,2.0,Unknown Status,Normal Order,1588.7,Loyal & Satisfied
+ORD1972,CUST344,Fashion,UPI,223.44,30,2,7.0,3.0,No,Tier 1,5.0,Severe Delay,Normal Order,156.41,Standard Order
+ORD1973,CUST311,Fashion,DEBIT CARD,694.59,5,6,7.0,3.0,No,Tier 3,1.0,Unknown Status,Normal Order,659.86,Standard Order
+ORD1974,CUST304,Fashion,UPI,549.71,30,2,7.0,3.0,No,Tier 3,5.0,Severe Delay,Normal Order,384.8,Standard Order
+ORD1976,CUST339,Fashion,UPI,1178.76,5,5,7.0,3.0,No,Tier 1,2.0,Unknown Status,Normal Order,1119.82,Standard Order
+ORD1978,CUST240, Fashion ,UPI,2238.49,20,4,7.0,2.0,No,Tier 2,3.0,Severe Delay,Normal Order,1790.79,Standard Order
+ORD1979,CUST145,Books,COD,3025.1,20,2,7.0,4.0,No,Tier 2,5.0,Severe Delay,Normal Order,2420.08,Loyal & Satisfied
+ORD1980,CUST134,Electronics,CREDIT CARD,1383.12,50,5,7.0,5.0,No,Tier 1,2.0,Unknown Status,Normal Order,691.56,Loyal & Satisfied
+ORD1981,CUST233,Home,COD,6201.88,15,6,7.0,4.0,Yes,Tier 2,1.0,Unknown Status,High Value Order,5271.6,Standard Order
+ORD1982,CUST181,Beauty,COD,1098.06,5,6,7.0,1.0,No,Tier 1,1.0,Unknown Status,Normal Order,1043.16,Standard Order
+ORD1983,CUST214,Home,CREDIT CARD,1280.37,10,5,7.0,2.0,Yes,Tier 2,2.0,Unknown Status,Normal Order,1152.33,Standard Order
+ORD1984,CUST296,Home,UPI,6994.78,30,3,7.0,4.0,No,Tier 1,4.0,Severe Delay,High Value Order,4896.35,Loyal & Satisfied
+ORD1985,CUST146,Electronics,UPI,595.07,20,3,7.0,4.0,No,Tier 2,4.0,Severe Delay,Normal Order,476.06,Standard Order
+ORD1986,CUST252,Electronics,CREDIT CARD,4485.15,50,6,7.0,4.0,No,Tier 1,1.0,Unknown Status,Normal Order,2242.57,Loyal & Satisfied
+ORD1987,CUST293,Electronics,UPI,265.67,20,6,7.0,1.0,Yes,Tier 3,1.0,Unknown Status,Normal Order,212.54,Standard Order
+ORD1988,CUST109,Fashion,CREDIT CARD,1086.93,30,5,7.0,5.0,No,Tier 2,2.0,Unknown Status,Normal Order,760.85,Standard Order
+ORD1989,CUST155,Books,CREDIT CARD,308.86,30,3,7.0,4.0,Yes,Tier 2,4.0,Severe Delay,Normal Order,216.2,High Risk Transaction
+ORD1990,CUST129,Fashion,COD,2159.75,5,6,7.0,3.0,No,Tier 3,1.0,Unknown Status,Normal Order,2051.76,Standard Order
+ORD1991,CUST341,Books,CREDIT CARD,1606.31,20,3,7.0,2.0,No,Tier 2,4.0,Severe Delay,Normal Order,1285.05,Standard Order
+ORD1992,CUST208,Books,COD,2039.5,30,6,7.0,4.0,No,Tier 3,1.0,Unknown Status,Normal Order,1427.65,Loyal & Satisfied
+ORD1993,CUST104,Home,UPI,903.76,15,2,7.0,5.0,No,Tier 1,5.0,Severe Delay,Normal Order,768.2,Standard Order
+ORD1994,CUST218,Home,COD,891.82,15,4,7.0,5.0,Yes,Tier 1,3.0,Severe Delay,Normal Order,758.05,Standard Order
+ORD1995,CUST347,Books,UPI,269.57,20,7,7.0,4.0,No,Tier 1,0.0,On-Time,Normal Order,215.66,Standard Order
+ORD1996,CUST132,Books,CREDIT CARD,846.05,50,2,7.0,5.0,Yes,Tier 1,5.0,Severe Delay,Normal Order,423.02,High Risk Transaction
+ORD1997,CUST217,Fashion,DEBIT CARD,4173.72,30,7,7.0,2.0,No,Tier 3,0.0,On-Time,Normal Order,2921.6,Standard Order
+ORD1998,CUST164,Fashion,CREDIT CARD,915.18,5,6,7.0,4.0,Yes,Tier 1,1.0,Unknown Status,Normal Order,869.42,Standard Order
+ORD1999,CUST245,Home,UPI,2870.05,5,4,7.0,5.0,No,Tier 2,3.0,Severe Delay,Normal Order,2726.55,Loyal & Satisfied
