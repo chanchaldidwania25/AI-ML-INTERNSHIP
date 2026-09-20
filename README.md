@@ -1,6 +1,6 @@
 # 📊 SwiftKart E-Commerce Analytics Practicum
 ## 📊 Project Overview
-This repository contains my internship practicum on **E‑Commerce Customer Behavior & Delivery Analytics** for **SwiftKart**, a high‑growth Indian e‑commerce platform.[SwiftKart_Analytics Practicum.pdf]
+This repository contains my internship practicum on **E‑Commerce Customer Behavior & Delivery Analytics** for **SwiftKart**, a high‑growth Indian e‑commerce platform.[SwiftKart_Analytics Practicum.pdf](https://github.com/chanchaldidwania25/AI-ML-INTERNSHIP/blob/main/ecommerce_customer_behavior_and_delivery_analytics%20(1).pdf)
 
 The project focuses on analyzing **unit economics, logistics bottlenecks, and discount elasticity**.
 
